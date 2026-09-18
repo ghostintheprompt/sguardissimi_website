@@ -9,7 +9,7 @@ excerpt: >-
 author: Michael d Subrizi
 photographer: Michael d Subrizi
 cover: >-
-  /img/tory-burch-cover.jpg
+  /video_previews/tory-burch-and-shiseido-2025-01-20-preview.jpg
 coverOrientation: "landscape"
 word_count: 398
 reading_time: 2
