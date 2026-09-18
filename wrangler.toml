@@ -1,6 +1,6 @@
 # Wrangler configuration for Cloudflare Workers with Assets
 name = "sguardissimi"
-account_id = "32238adfca0b48e3c36aed85697d7ae7"
+account_id = "dc8d83e68ad798999ac00a4bdd7d40ce"
 compatibility_date = "2025-10-30"
 main = "src/index.js"
 
@@ -26,4 +26,4 @@ custom_domain = true
 # then paste the returned id below and deploy.
 [[kv_namespaces]]
 binding = "CANARY_KV"
-id = "899622d11b74461287caa591aa004241"
+id = "4814f281344e4c7398646d5831145648"

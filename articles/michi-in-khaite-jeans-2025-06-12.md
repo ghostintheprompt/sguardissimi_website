@@ -69,4 +69,4 @@ Ed è anche terribilmente hot.
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*
+*Tutte le immagini © Michael d Subrizi / Sguardissimi*

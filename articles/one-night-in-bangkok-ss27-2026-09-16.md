@@ -104,4 +104,4 @@ Backstage e primi sguardi qui sopra, la galleria appena le foto sono pronte.
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*
+*Tutte le immagini © Michael d Subrizi / Sguardissimi*

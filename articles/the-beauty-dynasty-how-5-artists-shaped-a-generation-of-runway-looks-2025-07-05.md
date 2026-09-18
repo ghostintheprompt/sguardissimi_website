@@ -161,4 +161,4 @@ Guardali lavorare e vedi cinque filosofie diverse. Ognuna abbastanza chiara da p
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*
+*Tutte le immagini © Michael d Subrizi / Sguardissimi*

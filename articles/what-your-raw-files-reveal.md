@@ -159,4 +159,4 @@ Il rispetto per il mestiere include anche il rispetto per i dati.
 
 *Per i dettagli tecnici, vedi: [Image Payload Injection](https://ghostintheprompt.com/articles/image-payload-injection) su Ghost in the Prompt*
 
-*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*
+*Tutte le immagini © Michael d Subrizi / Sguardissimi*

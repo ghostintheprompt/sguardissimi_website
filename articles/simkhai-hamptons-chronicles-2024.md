@@ -82,4 +82,4 @@ Il miglior contenuto moda nasce dal fidarsi dell'istinto. Dal seguire le modelle
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*
+*Tutte le immagini © Michael d Subrizi / Sguardissimi*
