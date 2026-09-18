@@ -1091,6 +1091,11 @@ ${urls.map(url => `  <url>
       if (fs.existsSync(path.join(__dirname, '../img'))) {
         fse.copySync(path.join(__dirname, '../img'), path.join(DIST_DIR, '../img'));
       }
+      // video_previews/ holds local poster frames for <video poster=...> — CDN-hosted
+      // .jpg posters 404 silently (see NAMING_GUIDE.md), so these are the real fallback.
+      if (fs.existsSync(path.join(__dirname, '../video_previews'))) {
+        fse.copySync(path.join(__dirname, '../video_previews'), path.join(DIST_DIR, '../video_previews'));
+      }
       fse.copySync(path.join(__dirname, '../articles-metadata.json'), path.join(DIST_DIR, '../articles-metadata.json'));
       
       // Copy .well-known for agent discovery
