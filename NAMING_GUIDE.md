@@ -44,11 +44,22 @@ Lowercase with underscores — e.g. `tory_burch_nyfw.mp4`. This is the one place
 convention genuinely differs from the Title_Case photo folders. That's the existing
 pattern, not a typo — keep it lowercase.
 
-Every video needs a **real poster image in `/img/`**, not something pulled from the
-CDN. Poster `.jpg`s hosted on `fashion_video/*.jpg` 404 silently — you won't notice
-because autoplay covers the gap, but the `og:image`/`twitter:image` share preview
-will be broken. Put the poster at `/img/<slug>-cover.jpg` or similar and point
-`cover:` at it.
+Every video needs a **poster** — never generate one by grabbing a frame from the
+video itself. Checked three of these tonight (Tory Burch, Berta, Naeem Khan) and
+every single video-frame grab was bad: blurry, wrong crop, or literally had the
+video player's pause/play button baked into the image. Video frames are not photos.
+
+The fix is simpler than shooting something new: **use one of the real stills from
+that same show's own gallery as the poster.** You're already shooting stills at
+every show — just pick whichever one works best as a cover and point `cover:` at
+it (`https://media.fiamma.love/fashion_photos/<Collection>/<Collection>_<n>.jpg`,
+or a local file under `/img/` if you're hand-picking one). No separate capture
+step, no screengrabbing.
+
+Poster `.jpg`s hosted on `fashion_video/*.jpg` (i.e. inside the video folder
+itself) 404 silently — you won't notice because autoplay covers the gap, but the
+`og:image`/`twitter:image` share preview will be broken. Always point `cover:` at
+`fashion_photos/`, never `fashion_video/`.
 
 ## Orientation
 
@@ -67,6 +78,7 @@ anything on its own.
 2. Rename the collection folder to `Designer_Show_City_Season_Year`.
 3. Renumber photos `1..N` contiguous, no gaps.
 4. Video goes in `fashion_video/`, lowercase_underscore name.
-5. Make/verify a real `/img/` poster for any video.
+5. For any video, pick one real still from that show's own gallery as its poster —
+   never a frame grabbed from the video itself.
 6. Update the article's frontmatter (`data-col`, `data-n`, `hero_shots`,
    `videos[].url`, `cover`) to match exactly.
