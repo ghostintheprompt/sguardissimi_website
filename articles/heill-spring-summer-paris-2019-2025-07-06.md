@@ -22,7 +22,7 @@ hero_shots:
     https://media.fiamma.love/fashion_photos/Heill_Spring_Summer_Paris_2019/Heill_Spring_Summer_Paris_2019_3.jpg
 author: Michael d Subrizi
 photographer: Michael d Subrizi
-word_count: 993
+word_count: 959
 reading_time: 5
 featured: false
 gallery:
@@ -219,7 +219,7 @@ Più che una sfilata riuscita, era un presagio. HEILL partecipava alla settimana
 
 Il tempismo era perfetto. Pochi mesi dopo la cultura coreana sarebbe esplosa nella coscienza globale: K-pop ovunque, K-drama trasformati in ossessioni da piattaforma, K-fashion finalmente dentro la conversazione internazionale. Yang, il "designer della Minhwa" che ha vestito anche la First Lady Kim Jung-Sook, era già avanti.
 
-Justin, dopo quella conversazione su Paris Hilton, aveva capito l'energia: quel tipo di genio concreto che sembra puro glamour ma in realtà ti fa sentire a tuo agio. Sexy e lussuoso insieme. La stessa energia qui si traduce in couture coreano-parigina dentro un hotel così costoso da risultare quasi seduttivo.
+La stessa energia qui si traduce in couture coreano-parigina dentro un hotel così costoso da risultare quasi seduttivo.
 
 La sua collaborazione più recente con Purple Island in Corea ha trasformato un ponte di 1,4 chilometri in una passerella per le presentazioni digitali della Fashion Week di Parigi. Segno che continua a spingere, a cercare nuove forme per tenere insieme i suoi due mondi, a capire che la moda è sempre anche una forma di flirt.
 

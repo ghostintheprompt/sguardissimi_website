@@ -9,7 +9,7 @@ excerpt: >-
 cover: ''
 coverOrientation: "portrait"
 author: Michael d Subrizi
-word_count: 338
+word_count: 330
 reading_time: 2
 featured: false
 hero_shots:
@@ -84,7 +84,7 @@ La metafora della ceramica: argilla semplice che si trasforma in bellezza. Lini 
 
 ## Un austriaco a Milano
 
-Arbesser non rincorre il gioco del lusso. Fa vestiti che riflettono la sua visione specifica, leggermente strana. Cavallini, vortici di marmo, bodysuit check: inconfondibilmente suoi.
+Arbesser non rincorre il gioco del lusso. Fa vestiti che riflettono la sua visione specifica, leggermente strana.
 
 La prospettiva dell'austriaco a Milano crea distanza. Ama il mestiere italiano senza inchinarsi. Prende dalla tradizione senza restarne prigioniero. Lo sguardo da outsider gli lascia spazio per giocare.
 

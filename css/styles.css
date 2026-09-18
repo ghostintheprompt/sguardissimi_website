@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=DM+Sans:wght@400;500;600;700&family=Bodoni+Moda:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
+
 /* Article Navigation - Back to Home */
 .article-nav {
   position: fixed;
@@ -975,4 +977,224 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 4rem;
     margin: 0.05rem 0.1rem 0 0;
   }
+}
+
+/* Sguardissimi: one colour world, typography chosen by story format.
+   Keep these shared rules after the legacy media and lightbox styles. */
+:root {
+  --sg-paper: #f8dce5;
+  --sg-ink: #26151a;
+  --sg-red: #bd1739;
+  --sg-muted: #64434f;
+  --sg-rule: #b58c9b;
+  --sg-cream: #fff3d6;
+  --sg-display: 'Archivo', Impact, sans-serif;
+  --sg-sans: 'DM Sans', Arial, sans-serif;
+  --sg-serif: 'Bodoni Moda', Georgia, serif;
+}
+html, body { background: var(--sg-paper); color: var(--sg-ink); }
+body { font-family: var(--sg-sans); }
+::selection { background: var(--sg-red); color: var(--sg-cream); }
+a:focus-visible, button:focus-visible { outline: 3px solid var(--sg-red); outline-offset: 5px; }
+.article-nav {
+  position: relative;
+  box-sizing: border-box;
+  padding: 18px clamp(20px, 4vw, 64px);
+  background: var(--sg-paper);
+  border-bottom: 1px solid var(--sg-ink);
+  backdrop-filter: none;
+}
+.back-home {
+  display: inline-block;
+  padding: 6px 0;
+  color: var(--sg-red);
+  font-family: var(--sg-display);
+  font-variation-settings: 'wdth' 75;
+  font-size: 25px;
+  font-weight: 900;
+  letter-spacing: -.035em;
+}
+.back-home:hover { color: var(--sg-ink); }
+.fashion-article { background: var(--sg-paper); padding: 0 0 24px; }
+.article-header {
+  max-width: 1120px;
+  padding: clamp(28px, 5vw, 65px) 24px 0;
+  margin: 0 auto 28px;
+  text-align: left;
+}
+.article-title {
+  font-family: var(--sg-display);
+  font-variation-settings: 'wdth' 85;
+  font-size: clamp(38px, 6.3vw, 88px);
+  font-weight: 900;
+  line-height: 1.04;
+  letter-spacing: -.035em;
+  color: var(--sg-red);
+  border: 0;
+  margin: 0 0 25px;
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+.article-meta {
+  font-family: var(--sg-sans);
+  font-size: 12px;
+  line-height: 1.6;
+  font-weight: 500;
+  letter-spacing: .035em;
+  color: var(--sg-muted);
+  text-align: inherit;
+  margin: 0 0 12px;
+}
+.article-categories { display: flex; gap: 12px; flex-wrap: wrap; }
+.category-tag {
+  font-family: var(--sg-sans);
+  font-size: 11px;
+  line-height: 1.5;
+  letter-spacing: .08em;
+  color: var(--sg-red);
+  background: transparent;
+  padding: 0 0 5px;
+  border-bottom: 1px solid var(--sg-red);
+}
+.category-tag:hover { background: transparent; }
+.article-intro, .article-excerpt {
+  max-width: 790px;
+  padding: 0 24px;
+  margin: 0 auto 34px;
+  font-family: var(--sg-sans);
+  font-size: clamp(20px, 2.1vw, 25px);
+  line-height: 1.55;
+  color: var(--sg-ink);
+  letter-spacing: -.012em;
+  font-style: normal;
+}
+.article-body { max-width: 790px; padding: 0 24px 32px; }
+.article-body p, .article-body ul, .article-body ol {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(18px, 1.6vw, 21px);
+  line-height: 1.75;
+  color: var(--sg-ink);
+  letter-spacing: 0;
+  margin-top: 0;
+  margin-bottom: 1.35em;
+}
+.article-body h1, .article-body h2, .article-body h3 {
+  font-family: var(--sg-display);
+  font-variation-settings: 'wdth' 90;
+  color: var(--sg-red);
+  font-size: clamp(27px, 3vw, 38px);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -.025em;
+  text-transform: none;
+  border: 0;
+  margin: 1.3em 0 .65em;
+  text-wrap: balance;
+}
+.article-body h3 { font-size: clamp(23px, 2.4vw, 29px); }
+.article-body strong { color: inherit; }
+.article-body a { color: var(--sg-red); text-underline-offset: 4px; }
+.article-body p:first-of-type::first-letter {
+  font: inherit; float: none; margin: 0; color: inherit;
+}
+.article-body blockquote {
+  border-left: 2px solid var(--sg-red);
+  margin: 32px 0;
+  padding: 4px 0 4px 24px;
+  color: var(--sg-red);
+}
+.article-body blockquote p {
+  font-family: var(--sg-serif);
+  font-size: clamp(25px, 3vw, 35px);
+  line-height: 1.35;
+  font-style: italic;
+  color: inherit;
+  margin: 0;
+}
+.gold-accent, .article-body mark { color: var(--sg-red); background: var(--sg-cream); }
+.article-body hr { border: 0; border-top: 1px solid var(--sg-rule); margin: 30px 0; }
+.article-body img:not(.gallery-grid img), .article-hero-image img { max-width: 100%; height: auto; }
+.article-hero-image { max-width: 1050px; margin: 28px auto; padding: 0 24px; }
+.article-hero-image img { display: block; margin: auto; }
+.video-wrapper { margin: 28px 0; background: #23151c; }
+.video-frame { width: 100%; max-height: 75vh; object-fit: contain; }
+.gallery-wrapper { margin: 32px 0; }
+.article-body .gallery-section-title {
+  font-family: var(--sg-sans);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  text-align: left;
+  border-top: 1px solid var(--sg-rule);
+  padding-top: 14px;
+  margin-bottom: 16px;
+}
+.gallery-grid { background: #23151c; }
+.gallery-image { background: #23151c; }
+.gallery-caption, .video-caption {
+  color: var(--sg-muted);
+  font-family: var(--sg-sans);
+  font-size: 12px;
+  line-height: 1.6;
+  padding: 10px 0;
+}
+/* Films have a flowing title; mixed film/runway stories use the emphatic sans. */
+.video-template .article-header { max-width: 1000px; text-align: center; }
+.video-template .article-title {
+  font-family: var(--sg-serif);
+  font-size: clamp(40px, 6vw, 80px);
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.08;
+  letter-spacing: -.04em;
+}
+.video-template .article-categories { justify-content: center; }
+.video-template .article-body h2 { font-family: var(--sg-serif); font-weight: 600; font-style: italic; }
+.gallery-video-template .article-title { font-variation-settings: 'wdth' 70; }
+/* Essays keep a calmer, book-like title and a single opening initial. */
+.image-template .article-header, .article-template .article-header { max-width: 940px; }
+.image-template .article-title, .article-template .article-title {
+  font-family: var(--sg-serif);
+  font-weight: 600;
+  font-size: clamp(38px, 5.8vw, 74px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+}
+.image-template .article-intro p::first-letter, .article-template .article-intro p::first-letter {
+  float: left;
+  font-family: var(--sg-serif);
+  font-size: 3.6em;
+  line-height: .86;
+  margin: .07em .1em 0 0;
+  color: var(--sg-red);
+}
+.designer-links-section { background: transparent; border-color: var(--sg-rule); }
+.designer-links-title, .article-share h3 { color: var(--sg-red); border: 0; font-family: var(--sg-sans); font-size: 16px; letter-spacing: 0; }
+.designer-link, .share-btn {
+  background: transparent;
+  color: var(--sg-ink);
+  border: 1px solid var(--sg-red);
+  border-radius: 0;
+  font-family: var(--sg-sans);
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: .035em;
+}
+.designer-link.official { border-color: var(--sg-red); }
+.designer-link:hover, .share-btn:hover { background: var(--sg-red); color: var(--sg-cream); transform: none; box-shadow: none; }
+.article-share { max-width: 790px; margin: 32px auto 0; border-color: var(--sg-rule); }
+.copy-notification { background: var(--sg-red); color: var(--sg-cream); }
+.lightbox { background: rgba(35, 21, 28, .98); }
+.lightbox-thumbnail.active { border-color: #f5a9cf; }
+@media (max-width: 600px) {
+  .article-header { padding: 28px 20px 0; margin-bottom: 24px; }
+  .article-intro, .article-excerpt, .article-body { padding-left: 20px; padding-right: 20px; }
+  .article-meta { font-size: 11px; letter-spacing: .02em; }
+  .article-title { margin-bottom: 20px; }
+  .gallery-image { height: 56svh; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; }
 }

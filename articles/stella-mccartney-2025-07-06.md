@@ -10,7 +10,7 @@ cover: https://media.fiamma.love/fashion_photos/Stella_McCartney_Paris_Autumn_Wi
 coverOrientation: "portrait"
 author: Michael d Subrizi
 photographer: Michael d Subrizi
-word_count: 606
+word_count: 565
 reading_time: 3
 featured: false
 gallery:
@@ -344,7 +344,7 @@ Eccesso barocco dorato, secoli di foglia d'oro che catturano ogni fonte di luce,
 
 Dentro, qualcosa brucia.
 
-Cappotti dalle spalle forti. Principe di Galles. Eco-pelliccia che si muove meglio della vera. Abiti fluttuanti con pannelli rigidi: architettura e fluidità nello stesso gesto. Power dressing senza scuse.
+Cappotti dalle spalle forti. Principe di Galles. Abiti fluttuanti con pannelli rigidi: architettura e fluidità nello stesso gesto. Power dressing senza scuse.
 
 Qui fotografi una furia cinematografica, catturi quell'atmosfera dinamica che separa il lavoro di Stella da quello di chi si limita a fare vestiti. Questa è convinzione tradotta in silhouette.
 
@@ -372,15 +372,13 @@ Formato garden: scala intima, accesso democratico. Tocchi i pezzi. Vedi come si 
 
 Pezzi trasparenti: polimeri vegetali, non PVC. Compostabili. L'innovazione non era la sostituzione: era un miglioramento della performance.
 
-95% materiali responsabili. Non marketing: dato documentato. Viscosa svedese da foreste certificate. Eco-pelliccia che si muove meglio della vera. Trasparenza della filiera come pratica di business.
+95% materiali responsabili. Non marketing: dato documentato. Viscosa svedese da foreste certificate. Trasparenza della filiera come pratica di business.
 
 Non ti chiede un atto di fede. La prova esiste. La puoi seguire.
 
 ## Perché Funziona
 
 Sheila Hicks ha creato quelle collane e cinture in filato ritorto per l'Autunno/Inverno 2019. Ottantacinque anni, artista tessile. Colori vibranti, rossi profondi, gialli accesi, blu elettrici, che portano vita dentro palette neutre. Qualità fatta a mano. Ogni pezzo unico.
-
-L'eco-pelliccia era indistinguibile dalla vera tranne che nella performance: più leggera, più facile da gestire, più durevole. Fotografava meglio. Si muoveva più pulita nell'inquadratura.
 
 Ricerca sui materiali: anni di sviluppo per creare sintetici capaci di uguagliare o superare i materiali naturali. Non sostituzione. Miglioramento della performance.
 

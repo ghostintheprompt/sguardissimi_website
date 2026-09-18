@@ -10,7 +10,7 @@ cover: >-
   https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_1.jpg
 coverOrientation: "portrait"
 author: Michael d Subrizi
-word_count: 259
+word_count: 236
 reading_time: 1
 featured: false
 photographer: Michael d Subrizi
@@ -66,8 +66,6 @@ Perfetta luce parigina, grigia e bassa. Perfetta Parigi corrotta. La precisione 
 ## La verità
 
 Haider Ackermann. Formazione belga filtrata attraverso Galliano, attraverso Anversa, attraverso la certezza che la restrizione generi libertà.
-
-Nero, bianco, rosso. Limitazione grafica che crea possibilità infinite. Sartoria scultorea. "Prendere in prestito i vestiti dalla persona amata" che diventa filosofia. Gender fluid prima che il marketing lo rendesse innocuo.
 
 Lo indossa Tilda Swinton. Timothée Chalamet. Kanye. Ma quello che conta è Michele che fa verticali sul riser mentre gli italiani perdono la testa e i tedeschi portano la loro precisione brutale.
 

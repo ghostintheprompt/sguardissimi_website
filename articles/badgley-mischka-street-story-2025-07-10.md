@@ -12,8 +12,8 @@ excerpt: >-
 author: Michael d Subrizi
 cover: /img/posters/badgley-mischka-street-story-2025-07-10.jpg
 photographer: Michael d Subrizi
-word_count: 608
-reading_time: 3
+word_count: 483
+reading_time: 2
 featured: false
 coverOrientation: "landscape"
 videos:
@@ -64,14 +64,8 @@ L'abito torna perfetto: neanche un segno, neanche un filo fuori posto. Mark è q
 
 ## La verità
 
-Di nuovo dentro: potenza creativa pura. Mark e James hanno costruito tutto dal nulla, tre anni di fila senza un giorno libero, trasportando tessuti su e giu per la Settima Strada. Adesso vestono prime dame e grandi socialite, fanno cinquanta sfilate benefiche l'anno e controllano ogni dettaglio di persona.
+Mark e James hanno costruito tutto dal nulla, tre anni di fila senza un giorno libero, trasportando tessuti su e giu per la Settima Strada. Adesso vestono prime dame e grandi socialite, fanno cinquanta sfilate benefiche l'anno e controllano ogni dettaglio di persona.
 
-"Tu hai capito cosa facciamo qui," dice Mark, sempre con quel sorriso. "La manifattura. La precisione. Trentasette anni per perfezionare cio che fa sentire una donna invincibile."
-
-Mentre la stirano e sistemano gli ultimi dettagli, lei si porta ancora addosso quell'energia da Quinta Strada. L'abito ha retto perché Mark e James costruiscono per New York: per donne vere, in condizioni vere, per una bellezza potente che non scende a patti.
-
-In questa città il tempo e denaro. Ma con Badgley Mischka prendi più di quello che paghi. Mark e James hanno appena venduto il loro impero, ma la loro eredita resta. Manhattan sa bene che cosa hanno costruito.
-
-L'abito aveva bisogno della città. Mark ci ha rimproverati con un sorriso, quasi felice che avessimo capito. È proprio questo che merita Badgley Mischka: la strada, l'energia, la sicurezza che nasce solo da decenni di perfezione dominata.
+Mark e James hanno appena venduto il loro impero, ma la loro eredita resta. Manhattan sa bene che cosa hanno costruito.
 
 Battesimo sulla Quinta Strada compiuto. Esattamente come piace a New York.

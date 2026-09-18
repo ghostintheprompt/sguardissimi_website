@@ -150,8 +150,8 @@ gallery:
         alt: Immagine di galleria
 author: Michael d Subrizi
 photographer: Michael d Subrizi
-word_count: 1366
-reading_time: 7
+word_count: 1015
+reading_time: 5
 featured: false
 ---
 
@@ -185,8 +185,6 @@ Gli stessi pezzi si fotografano in modo diverso in ogni luogo: il caftano in Pug
 
 ## I dettagli tecnici
 
-Costruzione da fusoliera per le flight suit. Silhouette da kimono. Giubbotti di salvataggio in velluto stampato appesi nell'ingresso di Montauk accanto a quelli veri. Cuscini da collo per i voli lunghi. Jersey di seta che non si sgualcisce. Inserti olografici. Orchidee dipinte a mano. Influenze indiane filtrate attraverso l'artigianato francese.
-
 La collaborazione con Tumi non riguardava semplicemente il bagaglio: riguardava la comprensione che certe vite hanno bisogno di un intero ecosistema di oggetti belli e funzionali. Le mascherine di seta come equipaggiamento necessario per voli notturni tra continenti, non come prop graziosi da sfilata. Gli inviti a forma di carta d'imbarco erano abbastanza sostanziosi da meritare una cornice.
 
 Phung immaginava la sua donna come "creativa, elegante e cosmopolita, diretta in India questa stagione". Quando la tua vita esiste davvero tra quattro case, quello è semplicemente martedì. Il concetto "Flight AW19 Paris-Jaipur" cattura la partenza perpetua, una vita in cui casa è la residenza che in quel momento ha il clima migliore e il tuo caftano preferito.
@@ -194,13 +192,5 @@ Phung immaginava la sua donna come "creativa, elegante e cosmopolita, diretta in
 ## Il guardaroba del caos bellissimo
 
 Le mascherine di seta di quella sfilata al Rothschild adesso vivono in ogni casa. Equipaggiamento essenziale per un tipo di vita in cui i sonnellini del pomeriggio sono strategici, non pigri. Gli inviti-carta d'imbarco sembravano già da subito fatti per essere incorniciati. Uno infatti è davvero incorniciato nella stanza degli ospiti di West Palm, promemoria del momento in cui ho visto abiti che assomigliavano alla vita che stavo cercando di costruire.
-
-La donna Leonard immaginata da Phung, "creativa, elegante e cosmopolita, diretta in India questa stagione", è soltanto un giorno qualsiasi quando la tua vita esiste tra quattro case. Le mascherine di seta non sono oggetti carini da sfilata, sono indispensabili per i voli notturni tra continenti. I giubbotti di salvataggio in velluto stampato? Oggetti bellissimi e poco pratici che acquistano senso quando casa è un concetto più che un indirizzo.
-
-Ogni pezzo si fotografa in modo diverso in ogni luogo. Seta rosa stampata a orchidee nella luce mattutina pugliese. Lo stesso capo al tramonto di Montauk, a pranzo a West Palm, sulla terrazza della Riviera in quel punto esatto in cui il pomeriggio diventa sera e tutto si fa dorato. Non stagionale: perpetuo. I riferimenti al viaggio costruiti da Phung smettono di essere metafora quando la tua vita esiste davvero tra quattro case e non sai più in quale valigia sia finito quale caftano.
-
-Lo styling che al Rothschild sembrava puro editoriale, nella vita reale diventa martedì. Questi abiti non hanno bisogno di essere spiegati perché spiegano te: una donna che ha scelto la bellezza invece della praticità, la gioia invece dell'appropriatezza. Gli accessori non sono prodotti: sono strumenti per una vita in cui non sei davvero certa in quale continente ti sveglierai la settimana prossima.
-
-Phung non stava progettando semplicemente moda. Stava progettando il guardaroba per una vita che sulla carta non ha senso ma nella pratica appare perfetta. Libertà dalla fedeltà geografica, dagli abiti "stagionalmente corretti", dall'idea che servano guardaroba diversi per vite diverse. Colori che richiamano il Rajasthan ma funzionano nella luce mediterranea: moda per persone la cui vita esiste tra culture, tra continenti, tra chi erano ieri e chi stanno diventando domani.
 
 La villa in Puglia, la casa a Montauk, West Palm quando cambia la stagione, la Riviera francese quando hai bisogno di ricordarti perché vivi così: Leonard è il filo che tiene insieme questi luoghi, il guardaroba che funziona ovunque proprio perché rifiuta di appartenere in modo definitivo a un solo posto. Ed è esattamente questo il tipo di caos bellissimo di cui alcuni di noi hanno bisogno.

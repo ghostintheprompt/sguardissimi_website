@@ -8,7 +8,7 @@ excerpt: >-
   Galleria I da Spring Studios. Walter Lure al Continental quando c'era ancora la musica dal vivo. Energia Johnny Thunders. Si influenzavano a vicenda. Downtown non era fatto di mondi separati: musicisti, designer, fotografi, tutti nelle stesse stanze. Noi c'eravamo.
 author: Michael d Subrizi
 photographer: Michael d Subrizi
-word_count: 442
+word_count: 425
 reading_time: 2
 featured: false
 cover: ""
@@ -597,11 +597,9 @@ Lower East Side prima che diventasse LES. Continental con musica dal vivo, non s
 
 ## La verità
 
-Trilogia Autunno 2018-2020. Gamma completa. Riflessione personale. Celebrazione pop. Precisione teatrale.
-
 Non ha scelto tra credibilita e successo commerciale. Li ha ridefiniti entrambi. Pezzi pensati per persone vere che vivono vite complesse. Quella casualita elettrica degli incontri nel centro e ancora tutta li.
 
-Moda che funziona come il rock and roll. Crea mitologia in una città piena di fantasmi. Mitologia vissuta. Continental con musica live. Walter Lure. CBGB's prima delle magliette da turista.
+Moda che funziona come il rock and roll. Crea mitologia in una città piena di fantasmi.
 
 Uniformi per chi ci crede ancora. Armature per chi pensa che la magia sia ancora possibile.
 

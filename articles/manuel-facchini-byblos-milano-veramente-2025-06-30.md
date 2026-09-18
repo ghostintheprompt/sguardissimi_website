@@ -12,7 +12,7 @@ excerpt: >-
 date: '2025-07-03'
 author: Michael d Subrizi
 photographer: Michael d Subrizi
-word_count: 1069
+word_count: 935
 reading_time: 5
 featured: false
 cover: >-
@@ -284,9 +284,5 @@ Direttore creativo di Byblos dal 2006, appena uscito da scuola. Il marchio perso
 **Byblos compete accanto a Missoni e Moschino.** Cento milioni di fatturato globale. Fusione tra natura e hi-tech, DNA colorato e da viaggio arrivato dagli anni Ottanta migliori. Riconoscibilità multigenerazionale, proprietà familiare, stabilità strategica. Obiettivo tra i 40 e i 50 milioni entro cinque anni. Cinquanta per cento Italia, cinquanta per cento internazionale: Est Europa, Asia, Medio Oriente. Costruzione lucida. Conoscenza del proprio valore. Questa è Milano: onorare la storia senza farsi imprigionare dalla storia.
 
 ## **Milano veramente**
-
-**La SS19 di Facchini nel 2018: ottimismo da Burning Man, bozzolo metallico, armature neon, capsula spaziale diretta sulla luna.** Poi la perdita da 19 milioni, la ristrutturazione giudiziaria. Poi la rinascita: Supernova Srl, flagship in Via della Spiga, espansione internazionale, reinvenzione del modello. La filosofia della contaminazione vale per tutto: estetica e strategia, eredità e innovazione, creatività e pragmatismo, artigianato italiano e rilevanza globale.
-
-**Modelle internazionali che parlano milanese e camminano dentro il bozzolo metallico o nel garage grezzo illuminato da Argento.** Tricia Akello, Carmen Amare, Alanna Arrington, Julia Banas che si muovono come se venissero da ovunque e da nessun posto: brillantezza di Rimini, eleganza da Piazza di Spagna, calore siciliano, attrito napoletano, lucidatura Via Montenapoleone. L'avventura è tutta lì: dal motorino alla limousine con bodyguard, dal centro sociale alla flagship di lusso, visione da cinema sporco con esecuzione da atelier, sex appeal crudo e precisione tecnica.
 
 **Scattato in RAW con la 5DS, senza dormire, con un Montepulciano decente bevuto in volo.** È questo che rende certi italiani davvero cool: essere grandi senza annunciarlo, restare flessibili dentro la convinzione, pragmatici dentro l'arte, tradizionali quanto basta per permettersi la trasgressione. Milano veramente.
