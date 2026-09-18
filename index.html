@@ -208,11 +208,18 @@
     justify-content:space-between;gap:.8rem;flex-wrap:wrap;color:var(--dim)}
   footer a:hover{color:var(--accent)}
 
-  .lb{position:fixed;inset:0;z-index:90;background:#000;display:none;grid-template-rows:1fr auto}
-  .lb.open{display:grid}
-  .lb-stage{position:relative;display:grid;place-items:center;min-height:0;padding:2.5rem 1rem .5rem}
-  .lb-stage img{max-height:100%;max-width:100%;width:auto;object-fit:contain}
-  .lb-bar{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;
+  .lb{position:fixed;inset:0;height:100dvh;z-index:90;background:#000;display:none;flex-direction:column}
+  .lb.open{display:flex}
+  /* flex:1 1 auto + min-height:0 is the reliable way to make this fill the
+     space above the fixed-height bar — a bare grid 1fr row here left the
+     stage with no definite height in some cases, so max-height:100% on the
+     image never resolved and it rendered at natural size, cropped by the
+     viewport with nothing to scroll. overflow:auto is a safety net so even
+     an extreme aspect ratio is always reachable, never truly cropped. */
+  .lb-stage{position:relative;flex:1 1 auto;min-height:0;display:flex;align-items:center;
+    justify-content:center;overflow:auto;padding:2.5rem 1rem .5rem}
+  .lb-stage img{max-height:100%;max-width:100%;width:auto;height:auto;object-fit:contain;margin:auto}
+  .lb-bar{flex:0 0 auto;display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;
     padding:.9rem clamp(1rem,3vw,2.5rem) 1.4rem;color:rgba(244,240,234,.6)}
   .lb-bar b{color:#f4f0ea;font-weight:500}
   .lb-nav{display:flex;gap:.5rem}
