@@ -67,7 +67,7 @@
   max-width: 100vw;
   height: 56.25vw;
   max-height: 1080px;
-  object-fit: cover;
+  object-fit: contain;
   display: block;
   margin: 0 auto;
   border-radius: 0;

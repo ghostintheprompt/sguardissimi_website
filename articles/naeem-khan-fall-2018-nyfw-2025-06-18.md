@@ -8,7 +8,7 @@ excerpt: >-
   Naeem Khan fa ciò che gli riesce meglio: superficie, precisione ed
   eveningwear costruito per tenere una stanza. Ricamo, movimento e un glamour
   che rifiuta di sembrare fragile.
-cover: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_1.jpg
+cover: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_6.jpg
 coverOrientation: "landscape"
 video:
   - title: Naeem Khan Fall 2018 Settimana della moda di New York
