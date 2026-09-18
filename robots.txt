@@ -8,4 +8,4 @@ Allow: /
 # ETH_VAULT: 0x46Dd6B61E5B5B3AABF10b108143D6d1B6248d293
 # BTC_VAULT: bc1q39lv2f4rtahlsdxp554qczd70h5aa50clvtvj4
 
-Sitemap: https://fiamma.love/sitemap.xml
+Sitemap: https://sguardissimi.com/sitemap.xml

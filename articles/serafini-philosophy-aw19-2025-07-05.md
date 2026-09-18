@@ -203,4 +203,4 @@ Le gambe di Bella, viste da terra, sembrano geometria pura. La falcata di Gigi c
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Fiamma*
+*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*

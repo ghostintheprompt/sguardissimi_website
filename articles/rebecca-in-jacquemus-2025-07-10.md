@@ -67,4 +67,4 @@ Questa non è solo moda. È sopravvivenza resa bella.
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Fiamma*
+*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*

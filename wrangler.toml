@@ -1,5 +1,5 @@
 # Wrangler configuration for Cloudflare Workers with Assets
-name = "fiamma"
+name = "sguardissimi"
 account_id = "32238adfca0b48e3c36aed85697d7ae7"
 compatibility_date = "2025-10-30"
 main = "src/index.js"
@@ -14,11 +14,11 @@ binding = "ASSETS"
 run_worker_first = true
 
 [[routes]]
-pattern = "fiamma.love"
+pattern = "sguardissimi.com"
 custom_domain = true
 
 [[routes]]
-pattern = "www.fiamma.love"
+pattern = "www.sguardissimi.com"
 custom_domain = true
 
 # Canary honeypot storage (one hit per KV key). Create the namespace once with:

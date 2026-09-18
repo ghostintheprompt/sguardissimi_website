@@ -1,6 +1,6 @@
 /**
  * ─────────────────────────────────────────────────────────────────────────────
- *  Defensive canary honeypot (Cloudflare Worker module) for fiamma.love.
+ *  Defensive canary honeypot (Cloudflare Worker module) for sguardissimi.com.
  *  A link that looks like an ordinary shared photo but records who fetches it
  *  and when, to detect an unauthorized observer of a private channel.
  *
@@ -14,7 +14,7 @@
 import { CANARY_IMAGES } from './canary-image.js';
 
 /*
- * Each token is one canary. Share  https://fiamma.love/media/<token>
+ * Each token is one canary. Share  https://sguardissimi.com/media/<token>
  * - `/media/<token>`      -> a photo page with Open Graph tags, so the chat
  *                            preview shows a real image card with your caption.
  * - `/media/<token>.jpg`  -> the raw image (what the preview crawler pulls).
@@ -175,7 +175,7 @@ function logHit(request, env, ctx, label) {
         method: 'POST',
         headers: { 'Authorization': `Bearer ${env.CANARY_RESEND_KEY}`, 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          from: env.CANARY_ALERT_FROM || 'Canary <canary@fiamma.love>',
+          from: env.CANARY_ALERT_FROM || 'Canary <canary@sguardissimi.com>',
           to: [env.CANARY_ALERT_EMAIL],
           subject,
           text: bodyText,

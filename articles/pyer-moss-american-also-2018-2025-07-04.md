@@ -117,4 +117,4 @@ In piedi su quel riser con la camera in mano sapevo di aver visto qualcosa che s
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Fiamma*
+*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*

@@ -329,4 +329,4 @@ Thom: "I would love for people to think of me for a beautiful jacket they will h
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Fiamma*
+*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*

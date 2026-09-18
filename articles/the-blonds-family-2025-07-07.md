@@ -259,4 +259,4 @@ Nel loro mondo il troppo non esiste, lo scintillio e necessario, e il compito pi
 
 <a href="https://www.rizzoliusa.com/book/9780847871452/" target="_blank" rel="noopener noreferrer">**The Blonds: Glamour, Fashion, Fantasy** - Rizzoli</a>
 
-*Tutte le immagini © Michael Daniele Subrizi / Fiamma*
+*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*

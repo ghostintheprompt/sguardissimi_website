@@ -5,8 +5,8 @@
       "name": "article-discovery",
       "type": "discovery",
       "description": "Discover fashion articles and metadata",
-      "url": "https://fiamma.love/articles-metadata.json",
-      "sha256": "b83066303ea60d98c4ca5ee9e6d11265325aaf2b90703a90db338c1d51317c49"
+      "url": "https://sguardissimi.com/articles-metadata.json",
+      "sha256": "ee140f38a09654758291895f74fab26f4050aee1c5f91f9cb92e334ab9f53d29"
     }
   ]
 }

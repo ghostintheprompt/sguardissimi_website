@@ -108,4 +108,4 @@ Marcus non ha predetto niente. Capisce soltanto l'energia essenziale di New York
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Fiamma*
+*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*

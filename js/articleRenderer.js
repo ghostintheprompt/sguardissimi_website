@@ -1,4 +1,4 @@
-// Fiamma - Pro Article Renderer
+// Sguardissimi - Pro Article Renderer
 // Clean, scalable, and matches editorial CSS
 // Handles drop caps, pull quotes, galleries, videos, and meta info
 

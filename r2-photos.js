@@ -1,4 +1,4 @@
-// Cloudflare R2 photo/video fetcher for Fiamma
+// Cloudflare R2 photo/video fetcher for Sguardissimi
 require('dotenv').config();
 const fetch = require('node-fetch');
 

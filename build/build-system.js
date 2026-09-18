@@ -16,7 +16,7 @@ const DESIGNER_LINKS_PATH = path.join(__dirname, '../designer-links.json');
 function absUrl(u) {
   if (!u) return '';
   if (/^https?:\/\//i.test(u)) return u;
-  return 'https://fiamma.love' + (u.startsWith('/') ? u : '/' + u);
+  return 'https://sguardissimi.com' + (u.startsWith('/') ? u : '/' + u);
 }
 
 // Load designer links
@@ -545,21 +545,21 @@ class ArticleBuildSystem {
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="article">
-  <meta property="og:url" content="https://fiamma.love/articles/${slug}/">
+  <meta property="og:url" content="https://sguardissimi.com/articles/${slug}/">
   <meta property="og:title" content="${meta.title}">
   <meta property="og:description" content="${meta.excerpt ? meta.excerpt.replace(/"/g, '&quot;') : ''}">
   <meta property="og:image" content="${absUrl(meta.cover || (meta.hero_shots && meta.hero_shots[0] ? meta.hero_shots[0].url : ''))}">
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:url" content="https://fiamma.love/articles/${slug}/">
+  <meta name="twitter:url" content="https://sguardissimi.com/articles/${slug}/">
   <meta name="twitter:title" content="${meta.title}">
   <meta name="twitter:description" content="${meta.excerpt ? meta.excerpt.replace(/"/g, '&quot;') : ''}">
   <meta name="twitter:image" content="${absUrl(meta.cover || (meta.hero_shots && meta.hero_shots[0] ? meta.hero_shots[0].url : ''))}">
 
   <!-- Pinterest (for when others share) -->
   <meta name="pinterest-rich-pin" content="true">
-  <meta property="og:see_also" content="https://fiamma.love">
+  <meta property="og:see_also" content="https://sguardissimi.com">
 
   <!-- Article metadata -->
   <meta property="article:published_time" content="${meta.date}">
@@ -569,7 +569,7 @@ class ArticleBuildSystem {
 </head>
 <body>
   <nav class="article-nav">
-    <a href="/" class="back-home">← Fiamma</a>
+    <a href="/" class="back-home">← Sguardissimi</a>
   </nav>
   <article class="fashion-article ${meta.template}-template">
     <div class="article-header">
@@ -995,7 +995,7 @@ class ArticleBuildSystem {
   generateSitemap() {
     const urls = [
       {
-        loc: 'https://fiamma.love/',
+        loc: 'https://sguardissimi.com/',
         priority: '1.0',
         changefreq: 'weekly'
       }
@@ -1004,7 +1004,7 @@ class ArticleBuildSystem {
     // Add all article URLs
     this.metadata.forEach(article => {
       urls.push({
-        loc: `https://fiamma.love/articles/${article.slug}/`,
+        loc: `https://sguardissimi.com/articles/${article.slug}/`,
         priority: article.featured ? '0.9' : '0.8',
         changefreq: 'monthly',
         lastmod: article.date

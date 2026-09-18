@@ -1,4 +1,4 @@
-# fiamma.love — start here
+# sguardissimi.com — start here
 
 Read this, then read the code. Do not ask questions this file answers.
 
@@ -6,7 +6,7 @@ Read this, then read the code. Do not ask questions this file answers.
 
 The magazine. 46 articles, Italian, first-person where it's good. Photography and
 writing from ten years of shows. Not a portfolio — agencyforza.com is the studio
-and carries the bio, the credits and the booking address. Fiamma carries the work.
+and carries the bio, the credits and the booking address. Sguardissimi carries the work.
 
 ## Stack, exactly
 

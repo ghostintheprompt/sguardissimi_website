@@ -430,4 +430,4 @@ Esco nell'aria serale di Milano. Il calore della serra mi esce ancora dalla pell
 
 ---
 
-*Tutte le immagini © Michael Daniele Subrizi / Fiamma*
+*Tutte le immagini © Michael Daniele Subrizi / Sguardissimi*
