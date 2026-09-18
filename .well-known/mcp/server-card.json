@@ -1,0 +1,18 @@
+{
+  "mcpVersion": "1.0",
+  "serverInfo": {
+    "name": "Fiamma Fashion Archive",
+    "version": "1.0.0",
+    "description": "API for fashion articles and photography archive"
+  },
+  "capabilities": {
+    "resources": {
+      "list": true,
+      "read": true
+    }
+  },
+  "transport": {
+    "type": "https",
+    "url": "https://fiamma.love/api/mcp"
+  }
+}

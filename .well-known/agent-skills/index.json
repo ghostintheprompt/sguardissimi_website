@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agentskills.io/v0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "article-discovery",
+      "type": "discovery",
+      "description": "Discover fashion articles and metadata",
+      "url": "https://fiamma.love/articles-metadata.json",
+      "sha256": "b83066303ea60d98c4ca5ee9e6d11265325aaf2b90703a90db338c1d51317c49"
+    }
+  ]
+}

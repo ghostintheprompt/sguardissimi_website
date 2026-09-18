@@ -1,0 +1,38 @@
+# Node & build
+node_modules/
+dist/
+
+# Contact data — third-party press emails, never commit
+*.xlsx
+MASTHEAD_PREVIEW.html
+
+# Raw video — lives on R2 (media.fiamma.love), never in git
+*.mov
+*.mp4
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel/Netlify
+.vercel/
+.netlify/
+
+# VSCode
+.vscode/
+
+# Misc
+*.log
+.env
+.env.* 
+!.env.example
+.vercel
+node_modules/
+
+# Local wrangler/miniflare dev state — never commit
+.wrangler/

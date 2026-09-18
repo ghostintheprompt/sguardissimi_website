@@ -1,0 +1,29 @@
+# Wrangler configuration for Cloudflare Workers with Assets
+name = "fiamma"
+account_id = "32238adfca0b48e3c36aed85697d7ae7"
+compatibility_date = "2025-10-30"
+main = "src/index.js"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+# Run src/index.js BEFORE serving static assets, so the Worker's header logic
+# (agent-discovery Link headers + security headers) actually applies to HTML
+# page loads. Without this, Cloudflare serves assets directly and the Worker
+# never runs on normal requests.
+run_worker_first = true
+
+[[routes]]
+pattern = "fiamma.love"
+custom_domain = true
+
+[[routes]]
+pattern = "www.fiamma.love"
+custom_domain = true
+
+# Canary honeypot storage (one hit per KV key). Create the namespace once with:
+#   npx wrangler kv namespace create CANARY_KV
+# then paste the returned id below and deploy.
+[[kv_namespaces]]
+binding = "CANARY_KV"
+id = "899622d11b74461287caa591aa004241"

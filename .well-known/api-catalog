@@ -1,0 +1,14 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.subrizi.studio/articles-metadata.json",
+      "rel": "service-desc",
+      "type": "application/json"
+    },
+    {
+      "anchor": "https://www.subrizi.studio/docs/CONTENT_GUIDE.md",
+      "rel": "service-doc",
+      "type": "text/markdown"
+    }
+  ]
+}
