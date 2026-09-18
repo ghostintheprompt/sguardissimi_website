@@ -11,8 +11,8 @@ photographer: Michael d Subrizi
 cover: >-
   /img/tory-burch-cover.jpg
 coverOrientation: "landscape"
-word_count: 555
-reading_time: 3
+word_count: 398
+reading_time: 2
 featured: false
 videos:
   - url: https://media.fiamma.love/fashion_video/tory_burch_nyfw.mp4
@@ -61,14 +61,6 @@ Non uno studio normale. Una casa d'aste. Old Masters, ricchezza generazionale, a
 
 ## La Verità
 
-Anni fa assistente sui suoi set. Guardare come lavora. Poi illuminare un'intervista. Imparare.
-
-Ora dietro le quinte da Sotheby's. Una rivista europea che copre la partnership bellezza. Lei governa questa stanza. Una modella di vertice al lavoro. Shiseido, gigante giapponese fondato nel 1872, che si lega a lei. KCD fa succedere tutto questo: sono i custodi della soglia, quelli che sanno chi appartiene davvero a stanze così. Pierre-Yves Roussel porta relazioni LVMH. Più di 370 negozi nel mondo. Due miliardi di fatturato.
-
-Ma non sono i numeri il punto. È il modo in cui attraversa lo spazio. Intelligente senza metterlo in scena. Con i piedi per terra quando avrebbe ogni motivo per non esserlo. Furba in modi che costruiscono invece di sbandierare. Capisce cosa le donne vogliono indossare. Designer americana che costruisce un impero americano.
-
-Da assistente a luce, fino a fotografare dietro le quinte dentro la casa d'aste di Sotheby's. Copertura europea. Una modella di vertice. KCD alla porta. Cerchio completo. Traiettoria guadagnata in anni. Da entrambe le parti.
-
-Ha costruito qualcosa di vero. Un impero che comanda Sotheby's, partnership con Shiseido, rappresentanza KCD, il tempo delle modelle di vertice. Vertice.
+Da assistente sui suoi set a fotografare dietro le quinte dentro la casa d'aste di Sotheby's. Cerchio completo. Traiettoria guadagnata in anni, da entrambe le parti.
 
 New York Fashion Week. Sotheby's. 2025.

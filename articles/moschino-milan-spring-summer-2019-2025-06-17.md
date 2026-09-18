@@ -8,7 +8,7 @@ excerpt: >-
   Milano al suo massimo splendore: il viaggio acido newyorkese di Jeremy Scott incontra generazioni di tecnica italiana. Bodyguard ovunque. Pubblico ricco superato tre a uno dalla sicurezza. Da Moschino non vai mai oltre il limite: continui soltanto a salire.
 author: Michael d Subrizi
 photographer: Michael d Subrizi
-word_count: 460
+word_count: 432
 reading_time: 2
 featured: false
 cover: >-
@@ -348,11 +348,11 @@ Da una posizione rialzata guardi questa processione di bellezza impossibile: Mil
 
 ## Perché Funziona
 
-Jeremy rende il lusso giocoso senza fargli perdere il filo. Sensibilità newyorkese. Esecuzione milanese. Gli americani lo sognano, gli italiani lo costruiscono, Pat dipinge i volti, tu catturi l'impossibile.
+Jeremy rende il lusso giocoso senza fargli perdere il filo.
 
-Undici anni di tutto questo. Spettacoli di pupazzi con il Creature Shop di Jim Henson. Collezioni-marionetta. Follia teatrale amplificata fino all'assurdo. Archeologia della cultura pop. Rave culture anni Novanta. Estetica cartoon senza chiedere scusa.
+Undici anni di tutto questo. Spettacoli di pupazzi con il Creature Shop di Jim Henson. Collezioni-marionetta. Follia teatrale amplificata fino all'assurdo. Rave culture anni Novanta. Estetica cartoon senza chiedere scusa.
 
-La sua influenza: ogni marchio che osa rendere la moda di nuovo divertente e pericolosa porta dentro il DNA di Scott.
+Ogni marchio che osa rendere la moda di nuovo divertente e pericolosa porta dentro il DNA di Scott.
 
 Quelle foto di Bella e Gigi le tengo appese anche a casa mia. Il flex è quello. Non il fatto di averle scattate, ma di esserci stato quando Milano ha toccato il suo picco assoluto e americani e italiani hanno dimostrato cosa succede quando la follia incontra la maestria.
 

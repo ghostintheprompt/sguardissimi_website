@@ -6,7 +6,7 @@
       "type": "discovery",
       "description": "Discover fashion articles and metadata",
       "url": "https://sguardissimi.com/articles-metadata.json",
-      "sha256": "3cbdca74ebe5099b33261feeccda0be0e7edccae17eaa01104c95d55399a5f4f"
+      "sha256": "275f57ec177fd1671c89c23a784fe0c38f01fd5ad98dd604b4f847063d165a18"
     }
   ]
 }

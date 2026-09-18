@@ -8,7 +8,7 @@ excerpt: >-
   École des Beaux-Arts. Undici donne in completi grigi identici. Il monocolo di Una Troubridge su ogni scrivania. Dieci anni dopo Firenze, Thom torna al suo concetto d'ufficio. Stavolta sono le donne a comandare il teatro aziendale. Scott dirige il video. Cerchio completo.
 author: Michael d Subrizi
 photographer: Michael d Subrizi
-word_count: 590
+word_count: 588
 reading_time: 3
 featured: true
 cover: "https://media.fiamma.love/fashion_photos/Thom_Browne_Paris_Autumn_Winter_2019/Thom_Browne_Paris_Autumn_Winter_2019_1.jpg"
@@ -269,7 +269,7 @@ gallery:
 
 ---
 
-École des Beaux-Arts. Struttura di vetro. Ambiente da ufficio. Scrivanie francesi anni Cinquanta. Precisione teatrale di Thom.
+École des Beaux-Arts. Struttura di vetro. Scrivanie francesi anni Cinquanta. Precisione teatrale di Thom.
 
 Scott dirige il video. Il mio mentore ai tempi di B-Live, quando stavo imparando la fotografia di moda. Vederlo arrivare da New York dice già tutto sulla scala della produzione.
 
