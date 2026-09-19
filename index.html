@@ -60,6 +60,7 @@
 #sg-zine .sg-pfw-n{font-family:'Archivo',Impact,sans-serif;font-weight:900;font-variation-settings:'wdth' 62;font-size:clamp(84px,13cqw,168px);line-height:.86;letter-spacing:-.035em;color:var(--pop);font-variant-numeric:tabular-nums;margin:2px 0 6px}
 #sg-zine .sg-pfw-l{font-family:Georgia,serif;font-style:italic;font-size:clamp(20px,2.6cqw,28px);line-height:1.1;letter-spacing:-.02em}
 #sg-zine .sg-note.sg-pfw p.sg-pfw-j{font-size:12px;text-transform:uppercase;letter-spacing:.1em;margin-top:12px}
+#sg-zine .sg-note.sg-pfw p.sg-pfw-j:empty{display:none}
 #sg-zine footer{border-top:2px solid var(--ink);padding-top:12px;font-size:11px;display:flex;gap:16px;justify-content:space-between}
 @container(max-width:550px){#sg-zine .sg-rail{font-size:11px;flex-wrap:wrap}
 #sg-zine .sg-nav{align-items:flex-start;flex-direction:column}
@@ -290,16 +291,18 @@ button,summary{cursor:pointer}
 // clearly marked estimate ("circa").
 const PFW=[["2026-03-02","2026-03-10","+01:00"],["2026-09-28","2026-10-06","+02:00"],["2027-03-01","2027-03-09","+01:00"],["2027-09-27","2027-10-05","+02:00"]]
 .map(([a,b,z])=>({start:new Date(a+"T00:00:00"+z),end:new Date(b+"T23:59:59"+z),est:false}));
-const JOKES=["Nessuno è pronto.","Le scarpe comode sono un mito.","Il caffè non basta.","Batterie cariche. Dignità no."];
+// Deadpan sub-lines under the countdown, in a working-photographer voice. Set to false to hide them.
+const SHOW_JOKES=true;
+const JOKES=["Nessuno è pronto.","Il backstage non si prenota da solo.","Batteria di scorta. Sempre.","Il primo look passa sempre troppo in fretta."];
 function monOnOrAfter(y,m,d){const t=new Date(Date.UTC(y,m,d));t.setUTCDate(t.getUTCDate()+((8-t.getUTCDay())%7));return t}
 function estimate(after){for(let y=after.getUTCFullYear();y<=after.getUTCFullYear()+2;y++){for(const [m,d] of [[1,24],[8,27]]){const s=monOnOrAfter(y,m,d);const e=new Date(s.getTime()+9*864e5-1000);if(s>after)return{start:s,end:e,est:true}}}}
 function pfwAt(now){
   let ev=PFW.find(e=>now<=e.end);
   if(!ev){const last=PFW[PFW.length-1];let a=last.end;while(true){ev=estimate(a);if(now<=ev.end)break;a=ev.end}}
   const day=Math.floor(now/864e5);
-  if(now>=ev.start)return{mode:"live",n:"ADESSO",l:"È Paris Fashion Week.",j:"Ci vediamo lì.",est:ev.est};
+  if(now>=ev.start)return{mode:"live",n:"ADESSO",l:"È Paris Fashion Week.",j:SHOW_JOKES?"Ci vediamo lì.":"",est:ev.est};
   const n=Math.ceil((ev.start-now)/864e5);
-  return{mode:"count",n:String(n),l:(n===1?"giorno":"giorni")+" a PFW"+(ev.est?" (circa)":""),j:JOKES[day%JOKES.length],est:ev.est};
+  return{mode:"count",n:String(n),l:(n===1?"giorno":"giorni")+" a PFW"+(ev.est?" (circa)":""),j:SHOW_JOKES?JOKES[day%JOKES.length]:"",est:ev.est};
 }
 window.sgPfwAt=pfwAt;
 const n=document.getElementById("pfw-n"),l=document.getElementById("pfw-l"),j=document.getElementById("pfw-j");

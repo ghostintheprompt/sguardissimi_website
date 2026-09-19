@@ -79,3 +79,9 @@ by length + gallery depth + first-person voice.
 - Audit before deploy.
 - No recaps, no summaries, no commentary on the work or on me.
 - Never write content or invent detail about a show. I was there, you weren't.
+
+## Parked copy (not on the site yet, Michael's call when)
+
+- Joke, for the countdown or a graffiti spot: "I francesi ce ne sono di tutti i tipi, ma non sono cool come New York."
+  Saved 2026-09-19. Countdown jokes live in `index.html` (`JOKES` array, `SHOW_JOKES` switch). They must stay in a
+  blunt working-photographer voice, never cute or girly.
