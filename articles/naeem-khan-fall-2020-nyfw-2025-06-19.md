@@ -1,13 +1,11 @@
 ---
 template: gallery
-title: "Naeem Khan Autunno 2020 è glamour moderno senza scuse"
+title: "Succede, quando frequenti Daniela e Naeem"
 date: '2025-06-19'
 categories:
   - high-fashion-and-culture
 excerpt: >-
-  Naeem Khan torna alla Settimana della moda di New York con un glamour che sa perfettamente quello che sta
-  facendo. Superficie, silhouette e eveningwear costruiti per colpire senza
-  perdere il controllo.
+  Questo mi ha portato finalmente su Rizzoli. L'avevo pianificato. Non è stato un errore.
 cover: >-
   https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2020/Naeem_Khan_NYFW_Fall_2020_1.jpg
 coverOrientation: "portrait"
@@ -251,4 +249,12 @@ featured: false
 
 [GALLERY:0]
 
-Naeem Khan torna alla Settimana della moda di New York per l'Autunno 2020 con una collezione di glamour moderno e alta moda controllata al millimetro.
+Questo è uno divertente. Mi ha portato finalmente su Rizzoli, e da allora è successo altre volte.
+
+Ricordo quei libri da bambino, e il negozio a Manhattan. Questo era il mio momento. Ho scattato i dettagli giusti. L'avevo pianificato. Non è stato un errore.
+
+Una mia foto in un libro dove c'era ogni fottuto fotografo famoso, perché era il libro di Naeem.
+
+Grazie Adam per aver pensato a me. Purtroppo il libro che mi hai mandato l'hanno mangiato le cimici dei letti, a Queens. Poi mi sono trasferito e l'ho riavuto, e quello me l'hanno rubato.
+
+Quindi, una foto di Daniela su Rizzoli. Mi piace vantarmene, lo sapete tutti. È davvero una bella foto, ma onestamente è solo Daniela e Naeem.

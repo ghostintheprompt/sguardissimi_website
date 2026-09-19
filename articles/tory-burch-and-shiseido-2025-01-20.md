@@ -63,4 +63,4 @@ Non uno studio normale. Una casa d'aste. Old Masters, ricchezza generazionale, a
 
 Da assistente sui suoi set a fotografare dietro le quinte dentro la casa d'aste di Sotheby's. Cerchio completo. Traiettoria guadagnata in anni, da entrambe le parti.
 
-New York Fashion Week. Sotheby's. 2025.
+New York Fashion Week. Sotheby's.
