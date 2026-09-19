@@ -173,10 +173,6 @@ gallery:
         alt: Immagine di galleria
       - url: https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_73.jpg
         alt: Immagine di galleria
-      - url: https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_74.jpg
-        alt: Immagine di galleria
-      - url: https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_75.jpg
-        alt: Immagine di galleria
       - url: https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_76.jpg
         alt: Immagine di galleria
       - url: https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_77.jpg

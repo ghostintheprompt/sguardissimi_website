@@ -47,9 +47,6 @@ gallery:
       - url: >-
           https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_8.jpg
         alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_9.jpg
-        alt: Immagine di galleria
 ---
 
 ## L'obiettivo di Mapplethorpe

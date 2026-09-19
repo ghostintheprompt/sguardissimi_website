@@ -219,9 +219,6 @@ gallery:
           https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_65.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_66.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_67.jpg
         alt: Immagine di galleria
       - url: >-

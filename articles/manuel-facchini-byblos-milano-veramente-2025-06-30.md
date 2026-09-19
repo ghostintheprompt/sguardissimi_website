@@ -133,13 +133,7 @@ gallery:
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_12.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_13.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_14.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_15.jpg
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_16.jpg
@@ -154,28 +148,16 @@ gallery:
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_19.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_20.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_21.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_22.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_23.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_24.jpg
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_25.jpg
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_26.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_27.jpg
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_28.jpg
@@ -190,16 +172,7 @@ gallery:
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_31.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_32.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_33.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_34.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_35.jpg
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_36.jpg
@@ -208,25 +181,7 @@ gallery:
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_37.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_38.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_39.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_40.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_41.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_42.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_43.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_44.jpg
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_45.jpg
@@ -236,9 +191,6 @@ gallery:
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_47.jpg
-        alt: Immagine di galleria
-      - url: >-
-          https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_48.jpg
         alt: Immagine di galleria
       - url: >-
           https://photos.sguardissimi.com/Manuel_Facchini_Milan_Spring_Summer_2019/Manuel_Facchini_Milan_Spring_Summer_2019_49.jpg

@@ -80,12 +80,12 @@ button,summary{cursor:pointer}
 #sg-zine .sg-graffiti{display:block;margin:10px 4px 0 auto;max-width:34ch;text-align:right;transform:rotate(-2.5deg);transform-origin:right center;font-family:'Marker Felt','Bradley Hand','Segoe Print','Comic Sans MS',cursive;font-size:15px;line-height:1.25;color:var(--pop);opacity:.66;mix-blend-mode:multiply;text-decoration:underline wavy;text-decoration-thickness:1px;text-underline-offset:3px;user-select:none}
 #sg-zine footer .sg-graffiti{margin:0;max-width:none;text-align:center;transform:rotate(1.5deg);transform-origin:center;font-size:13px;opacity:.55;align-self:center}
 #sg-zine .sg-graffiti--lead{margin:-6px 0 14px 4px;max-width:52ch;text-align:left;transform:rotate(-1.2deg);transform-origin:left center;font-size:17px;opacity:.7}
-#sg-zine .sg-manifesto{display:grid;grid-template-columns:1.1fr 1fr;gap:12px 25px;padding:22px 0 26px;border-top:2px solid var(--ink)}
-#sg-zine .sg-manifesto .sg-kicker{grid-column:1/-1;margin:0}
-#sg-zine .sg-manifesto blockquote{margin:0;font-family:Georgia,serif;font-style:italic;font-weight:400;font-size:clamp(26px,3.6cqw,42px);line-height:1.15;letter-spacing:-.03em;color:var(--pop)}
-#sg-zine .sg-manifesto-body p{font-size:14px;line-height:1.6;max-width:52ch}
-#sg-zine .sg-manifesto-body p+p{margin-top:12px}
-@container(max-width:550px){#sg-zine .sg-manifesto{grid-template-columns:1fr}}
+#sg-zine .sg-edition{display:grid;grid-template-columns:1.1fr 1fr;gap:12px 25px;padding:22px 0 26px;border-bottom:1px solid var(--ink)}
+#sg-zine .sg-edition .sg-kicker{grid-column:1/-1;margin:0}
+#sg-zine .sg-edition blockquote{margin:0;font-family:Georgia,serif;font-style:italic;font-weight:400;font-size:clamp(26px,3.6cqw,42px);line-height:1.15;letter-spacing:-.03em;color:var(--pop)}
+#sg-zine .sg-edition-body p{font-size:14px;line-height:1.6;max-width:52ch}
+#sg-zine .sg-edition-body p+p{margin-top:12px}
+@container(max-width:550px){#sg-zine .sg-edition{grid-template-columns:1fr}}
 #sg-zine{max-width:1400px;margin:auto;--accent:#cc173e}
 #sg-zine .sg-logo{font-size:15.4cqw}
 #sg-zine .sg-seal{pointer-events:none}
@@ -159,10 +159,10 @@ button,summary{cursor:pointer}
 <h1 class="sg-logo">SGUARDISSIMI</h1>
 <span class="sg-graffiti sg-graffiti--lead" lang="fr" aria-hidden="true">«&nbsp;Nous échappons complètement aux diktats des grilles publicitaires classiques.&nbsp;»</span>
 <nav class="sg-nav" aria-label="Magazine"><div><a href="#sg-storie">Storie</a><a href="#film">Film</a><a href="#archivio">Archivio</a></div><span>Moda, da dentro la stanza.</span></nav>
-<section class="sg-manifesto" lang="fr" aria-label="Manifeste">
+<section class="sg-edition" lang="fr" aria-label="Édition limitée">
 <p class="sg-kicker">Édition limitée • Indépendance absolue</p>
 <blockquote>«&nbsp;Nous échappons complètement aux diktats des grilles publicitaires classiques.&nbsp;»</blockquote>
-<div class="sg-manifesto-body"><p>Sguardissimi existe totalement en dehors du quadrillage commercial de la presse traditionnelle. Conçu comme un objet éditorial ultra-premium et à tirage limité, notre support est un manifeste brut dédié à l’architecture visuelle, à l’ingénierie technique et à la pureté du geste créatif.</p><p>Portés par notre héritage de productions d’élite pour les défilés internationaux, nous offrons aux maisons les plus secrètes un canevas totalement affranchi de toute censure. Aucun bruit médiatique. Aucun impératif corporate. Juste l’art pur.</p></div>
+<div class="sg-edition-body"><p>Sguardissimi existe totalement en dehors du quadrillage commercial de la presse traditionnelle. Conçu comme un objet éditorial ultra-premium et à tirage limité, notre support est un manifeste brut dédié à l’architecture visuelle, à l’ingénierie technique et à la pureté du geste créatif.</p><p>Portés par notre héritage de productions d’élite pour les défilés internationaux, nous offrons aux maisons les plus secrètes un canevas totalement affranchi de toute censure. Aucun bruit médiatique. Aucun impératif corporate. Juste l’art pur.</p></div>
 </section>
 <section class="sg-opening" id="sg-storie">
 <figure class="sg-lead"><video aria-label="One Night in Bangkok" controls preload="none" playsinline poster="https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg" src="https://video.sguardissimi.com/one-night-in-bangkok-ss27.mp4"></video><figcaption><a href="/articles/one-night-in-bangkok-ss27-2026-09-16">One Night in Bangkok ↗</a><span>New York · NYFW SS27</span></figcaption></figure>

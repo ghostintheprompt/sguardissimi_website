@@ -107,9 +107,6 @@ gallery:
           https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_27.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_28.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_29.jpg
         alt: Immagine di galleria
       - url: >-

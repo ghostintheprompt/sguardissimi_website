@@ -123,9 +123,6 @@ gallery:
           https://photos.sguardissimi.com/Thom_Browne_Paris_Autumn_Winter_2019/Thom_Browne_Paris_Autumn_Winter_2019_33.jpg
         alt: Immagine di galleria
       - url: >-
-          https://photos.sguardissimi.com/Thom_Browne_Paris_Autumn_Winter_2019/Thom_Browne_Paris_Autumn_Winter_2019_34.jpg
-        alt: Immagine di galleria
-      - url: >-
           https://photos.sguardissimi.com/Thom_Browne_Paris_Autumn_Winter_2019/Thom_Browne_Paris_Autumn_Winter_2019_35.jpg
         alt: Immagine di galleria
       - url: >-
