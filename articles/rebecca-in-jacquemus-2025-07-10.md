@@ -14,7 +14,7 @@ reading_time: 2
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/jacquemus.mp4
+  - url: https://video.sguardissimi.com/jacquemus.mp4
     title: "Rebecca in Jacquemus"
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---

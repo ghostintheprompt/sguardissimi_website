@@ -15,7 +15,7 @@ reading_time: 2
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/enaura.mov
+  - url: https://video.sguardissimi.com/enaura.mov
     title: "Enaura al Plaza per Bridal Week NYC"
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---

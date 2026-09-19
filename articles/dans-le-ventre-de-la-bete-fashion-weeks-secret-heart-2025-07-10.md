@@ -19,126 +19,126 @@ gallery:
   - title: Elie Saab Paris Autunno/Inverno 2019
     images:
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_1.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_2.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_3.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_4.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_5.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_6.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_6.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_7.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_7.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_8.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_8.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_9.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_9.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_10.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_10.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_11.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_11.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_12.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_12.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_13.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_13.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_14.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_14.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_15.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_15.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_16.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_16.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_17.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_17.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_18.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_18.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_19.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_19.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_20.jpg
+          https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_20.jpg
         alt: Immagine di galleria
   - title: Leonard Paris Autunno/Inverno 2019
     images:
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_1.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_2.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_3.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_4.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_5.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_6.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_6.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_7.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_7.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_8.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_8.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_9.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_9.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_10.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_10.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_11.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_11.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_12.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_12.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_13.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_13.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_14.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_14.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_15.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_15.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_16.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_16.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_17.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_17.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_18.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_18.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_19.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_19.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_20.jpg
+          https://photos.sguardissimi.com/Leonard_Paris_Autumn_Winter_2019/Leonard_Paris_Autumn_Winter_2019_20.jpg
         alt: Immagine di galleria
 ---
 

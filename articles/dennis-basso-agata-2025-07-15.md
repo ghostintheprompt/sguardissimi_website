@@ -14,7 +14,7 @@ reading_time: 3
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/dennis_basso_ss_2024.mp4
+  - url: https://video.sguardissimi.com/dennis_basso_ss_2024.mp4
     title: "Dennis Basso SS 2024"
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---

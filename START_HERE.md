@@ -15,9 +15,13 @@ and carries the bio, the credits and the booking address. Sguardissimi carries t
 - Deploy: `npx wrangler deploy` — ships `./dist`. **Git push does NOT deploy.**
 - Worker: `src/index.js` — sets CSP/HSTS. Needs `run_worker_first = true` in
   `wrangler.toml` or the headers silently vanish.
-- Media: `media.fiamma.love` (R2). Photos at
-  `fashion_photos/<Collection>/<Collection>_<n>.jpg`, numbering **contiguous 1..N,
-  no gaps**, 35 collections, 1,682 frames. Video at `fashion_video/<name>.mp4`.
+- Media (moved off fiamma.love 2026-09-18, originals live on the LaCie drive):
+  photos at `https://photos.sguardissimi.com/<Collection>/<Collection>_<n>.jpg`
+  (R2 bucket `fashion-photos`), video at `https://video.sguardissimi.com/<name>.mp4`
+  (R2 bucket `fashion-videos`), both in the personal Cloudflare account. Re-upload or
+  add files with `node scripts/media-upload/upload.mjs` (manifest-based, skips
+  anything already uploaded). The CSP `media-src` in `src/index.js` must list the
+  video host. Some collections have deliberate gaps; do not assume contiguous 1..N.
 - **Video poster .jpg files do NOT exist on the CDN.** Any `cover:` pointing at
   `fashion_video/*.jpg` 404s. It's invisible on video articles because the hero
   renders `<video poster=...>` and autoplay covers it. Use `/img/` for real posters.

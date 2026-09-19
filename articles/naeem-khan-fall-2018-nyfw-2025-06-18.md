@@ -12,29 +12,29 @@ cover: /img/posters/naeem-khan-fall-2018-nyfw-2025-06-18.jpg
 coverOrientation: "landscape"
 video:
   - title: Naeem Khan Fall 2018 Settimana della moda di New York
-    url: 'https://media.fiamma.love/fashion_video/naeem_khan_fall_2018.mp4'
+    url: 'https://video.sguardissimi.com/naeem_khan_fall_2018.mp4'
 gallery:
   - title: Naeem Khan Fall 2018 Settimana della moda di New York
     images:
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_1.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_2.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_3.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_3.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_4.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_4.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_5.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_5.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_6.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_6.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_7.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_7.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_8.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_8.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_9.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_9.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_10.jpg
+      - url: https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2018/Naeem_Khan_NYFW_Fall_2018_10.jpg
         alt: Immagine di galleria
 author: Michael d Subrizi
 photographer: Michael d Subrizi

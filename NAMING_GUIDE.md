@@ -52,7 +52,7 @@ video player's pause/play button baked into the image. Video frames are not phot
 The fix is simpler than shooting something new: **use one of the real stills from
 that same show's own gallery as the poster.** You're already shooting stills at
 every show — just pick whichever one works best as a cover and point `cover:` at
-it (`https://media.fiamma.love/fashion_photos/<Collection>/<Collection>_<n>.jpg`,
+it (`https://photos.sguardissimi.com/<Collection>/<Collection>_<n>.jpg`,
 or a local file under `/img/` if you're hand-picking one). No separate capture
 step, no screengrabbing.
 

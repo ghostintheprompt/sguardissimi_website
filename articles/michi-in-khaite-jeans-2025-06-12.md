@@ -14,7 +14,7 @@ reading_time: 2
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/khaite_jeans.mp4
+  - url: https://video.sguardissimi.com/khaite_jeans.mp4
     title: "Michi: un glitch nella dimensione dei cinque borough"
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---

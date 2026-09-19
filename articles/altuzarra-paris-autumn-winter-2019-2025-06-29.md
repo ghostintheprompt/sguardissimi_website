@@ -14,41 +14,41 @@ reading_time: 2
 featured: false
 hero_shots:
   - >-
-    https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_1.jpg
+    https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_1.jpg
   - >-
-    https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_2.jpg
+    https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_2.jpg
   - >-
-    https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_3.jpg
+    https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_3.jpg
 photographer: Michael d Subrizi
 gallery:
   - title: Paris Autunno/Inverno 2019
     images:
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_1.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_2.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_3.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_4.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_5.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_6.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_6.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_7.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_7.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_8.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_8.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_9.jpg
+          https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_9.jpg
         alt: Immagine di galleria
 ---
 

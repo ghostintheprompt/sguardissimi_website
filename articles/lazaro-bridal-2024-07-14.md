@@ -16,7 +16,7 @@ reading_time: 2
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/lazaro.mp4
+  - url: https://video.sguardissimi.com/lazaro.mp4
     title: "Lazaro: energia luminosa nel bridal"
     credit: "Scattato e scritto da Michael d Subrizi"
 ---

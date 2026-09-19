@@ -15,47 +15,47 @@ tags:
 excerpt: >-
   Capitale, 130 Bowery. Una cassaforte del 1894 diventata sala eventi. Anni 2000, quando era after-hours, il padre di un amico l'ha pure rapinata. L'ultima volta che c'ero, era per quel mondo lì, mesi prima dell'11 settembre. Ora Kelly mi invita per un défilé thailandese curato da un ministero. Backstage sembrava uno show europeo. La banca no.
 author: Michael d Subrizi
-cover: "https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg"
+cover: "https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg"
 photographer: Michael d Subrizi
 word_count: 470
 reading_time: 2
 featured: false
 coverOrientation: "landscape"
 hero_shots:
-  - https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg
-  - https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_2.jpg
-  - https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_3.jpg
+  - https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg
+  - https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_2.jpg
+  - https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_3.jpg
 gallery:
   - title: "One Night in Bangkok NYFW SS27 Galleria"
     images:
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_2.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_3.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_3.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_4.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_4.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_5.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_5.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_6.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_6.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_7.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_7.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_8.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_8.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_9.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_9.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_10.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_10.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_11.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_11.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_12.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_12.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_13.jpg
+      - url: https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_13.jpg
         alt: Immagine di galleria
 videos:
-  - url: https://media.fiamma.love/fashion_video/one-night-in-bangkok-ss27.mp4
+  - url: https://video.sguardissimi.com/one-night-in-bangkok-ss27.mp4
     title: "One Night in Bangkok - Backstage e Primi Sguardi"
     credit: "Scattato e scritto da Michael d Subrizi"
 ---

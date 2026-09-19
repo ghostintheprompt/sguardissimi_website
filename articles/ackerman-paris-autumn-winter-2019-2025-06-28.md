@@ -7,7 +7,7 @@ categories:
 excerpt: >-
   Michele fa verticali perfette sul riser. Gli italiani impazziscono. Devono essere i tedeschi. Precisione da Kraftwerk: angolare, brutalista, divina. Uscita con Bella davanti a 250 paparazzi. Tempesta di flash. Sembrava aliena e irresistibile. Scatto preso.
 cover: >-
-  https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_1.jpg
+  https://photos.sguardissimi.com/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_1.jpg
 coverOrientation: "portrait"
 author: Michael d Subrizi
 word_count: 236
@@ -18,22 +18,22 @@ gallery:
   - title: Ackermann Paris Autunno/Inverno 2019 Galleria
     images:
       - url: >-
-          https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_1.jpg
+          https://photos.sguardissimi.com/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_2.jpg
+          https://photos.sguardissimi.com/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_3.jpg
+          https://photos.sguardissimi.com/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_4.jpg
+          https://photos.sguardissimi.com/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_5.jpg
+          https://photos.sguardissimi.com/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_6.jpg
+          https://photos.sguardissimi.com/Ackerman_Paris_Autumn_Winter_2019/Ackerman_Paris_Autumn_Winter_2019_6.jpg
         alt: Immagine di galleria
 ---
 

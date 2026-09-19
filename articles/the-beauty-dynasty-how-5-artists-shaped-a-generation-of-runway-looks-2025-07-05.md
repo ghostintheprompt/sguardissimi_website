@@ -6,7 +6,7 @@ categories:
   - high-fashion-and-culture
 excerpt: >-
   Pat McGrath dipinge volti per Anna Sui. Diane Kendal taglia tutto il superfluo da Altuzarra. Jawara capisce la texture da Elie Saab. Gucci Westman fa brillare la pelle da Rag & Bone. Kabuki trasforma i volti dei The Blonds. Guardali lavorare dietro le quinte e vedi tecniche che vale la pena imparare. Cinque maestri. Filosofie diverse. Stessa disciplina.
-cover: "https://media.fiamma.love/fashion_photos/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_1.jpg"
+cover: "https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_1.jpg"
 coverOrientation: "portrait"
 author: Michael d Subrizi
 photographer: Michael d Subrizi
@@ -16,68 +16,68 @@ featured: true
 gallery:
   - title: Anna Sui Settimana della moda di New York Autunno 2018
     images:
-      - url: https://media.fiamma.love/fashion_photos/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_1.jpg
+      - url: https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_2.jpg
+      - url: https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_3.jpg
+      - url: https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_3.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_4.jpg
+      - url: https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_4.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_5.jpg
+      - url: https://photos.sguardissimi.com/Anna_Sui_NYFW_Fall_2018/Anna_Sui_NYFW_Fall_2018_5.jpg
         alt: Immagine di galleria
 
   - title: Moschino Milan Primavera/Estate 2019
     images:
-      - url: https://media.fiamma.love/fashion_photos/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_1.jpg
+      - url: https://photos.sguardissimi.com/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_2.jpg
+      - url: https://photos.sguardissimi.com/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_3.jpg
+      - url: https://photos.sguardissimi.com/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_3.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_4.jpg
+      - url: https://photos.sguardissimi.com/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_4.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_5.jpg
+      - url: https://photos.sguardissimi.com/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_5.jpg
         alt: Immagine di galleria
 
   - title: Altuzarra Paris Autunno/Inverno 2019
     images:
-      - url: https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_1.jpg
+      - url: https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_2.jpg
+      - url: https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_3.jpg
+      - url: https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_4.jpg
+      - url: https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_5.jpg
+      - url: https://photos.sguardissimi.com/Altuzarra_Paris_Autumn_Winter_2019/Altuzarra_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
 
   - title: Elie Saab Paris Autunno/Inverno 2019
     images:
-      - url: https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_1.jpg
+      - url: https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_2.jpg
+      - url: https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_3.jpg
+      - url: https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_4.jpg
+      - url: https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_5.jpg
+      - url: https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
   - title: Rag & Bone Settimana della moda di New York Autunno 2020
     images:
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_1.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_2.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_3.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_3.jpg
         alt: Immagine di galleria
   - title: The Blonds Settimana della moda di New York Autunno 2019
     images:
-      - url: https://media.fiamma.love/fashion_photos/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_1.jpg
+      - url: https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_2.jpg
+      - url: https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_2.jpg
         alt: Immagine di galleria
 ---
 

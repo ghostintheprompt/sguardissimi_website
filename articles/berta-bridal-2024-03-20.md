@@ -14,7 +14,7 @@ reading_time: 3
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/berta.mp4
+  - url: https://video.sguardissimi.com/berta.mp4
     title: "BERTA dietro le quinte alla NYBFW"
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---

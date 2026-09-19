@@ -14,10 +14,10 @@ photographer: Michael d Subrizi
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/simkhai_cruise.mp4
+  - url: https://video.sguardissimi.com/simkhai_cruise.mp4
     title: "Simkhai Cruise - Adelina"
     credit: "Scattato e scritto da Michael d Subrizi"
-  - url: https://media.fiamma.love/fashion_video/simkhai_hamptons.mp4
+  - url: https://video.sguardissimi.com/simkhai_hamptons.mp4
     title: "Simkhai - Gli Hamptons (Rebecca e Adelina)"
     credit: "Scattato e scritto da Michael d Subrizi"
 ---

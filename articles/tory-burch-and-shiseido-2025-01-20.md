@@ -15,7 +15,7 @@ word_count: 398
 reading_time: 2
 featured: false
 videos:
-  - url: https://media.fiamma.love/fashion_video/tory_burch_nyfw.mp4
+  - url: https://video.sguardissimi.com/tory_burch_nyfw.mp4
     title: Tory Burch x Shisheido - Settimana della moda di New York Sothebys
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---

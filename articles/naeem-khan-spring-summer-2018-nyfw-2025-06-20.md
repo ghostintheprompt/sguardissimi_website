@@ -8,115 +8,115 @@ excerpt: >-
   Glamour da passerella newyorkese con disciplina sotto la superficie. Ricamo,
   colore e movimento gestiti da un designer che sa che il lusso funziona solo
   quando il controllo è assoluto.
-cover: 'https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_1.jpg'
+cover: 'https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_1.jpg'
 coverOrientation: "portrait"
 video:
   - title: Naeem Khan Primavera/Estate 2018 Settimana della moda di New York
-    url: 'https://media.fiamma.love/fashion_video/naeem_khan_ss_2018.mp4'
+    url: 'https://video.sguardissimi.com/naeem_khan_ss_2018.mp4'
 gallery:
   - title: Naeem Khan Primavera/Estate 2018 Settimana della moda di New York
     images:
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_1.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_1.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_2.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_2.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_3.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_3.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_4.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_4.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_5.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_5.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_6.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_6.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_7.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_7.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_8.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_8.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_9.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_9.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_10.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_10.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_11.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_11.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_12.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_12.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_13.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_13.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_14.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_14.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_15.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_15.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_16.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_16.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_17.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_17.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_18.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_18.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_19.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_19.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_20.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_20.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_21.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_21.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_22.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_22.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_23.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_23.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_24.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_24.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_25.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_25.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_26.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_26.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_27.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_27.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_28.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_28.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_29.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_29.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_30.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_30.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_31.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_31.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_32.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_32.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_33.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_33.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_34.jpg
+          https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_34.jpg
         alt: Immagine di galleria
 photographer: Michael D. Subrizi
 author: Michael D. Subrizi

@@ -7,7 +7,7 @@ categories:
 excerpt: >-
   Duplex loft ancora in cantiere. Tutta la stampa del mondo si trasforma in liceali annoiati in cerca di azione, e finisce per crearla attraverso una ribellione sottile che cresce fino a immagini da total upsetters in stile dub. Pierre 20 anni, Elena 22. Dopo aver finito i compiti di filosofia.
 cover: >-
-  https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_1.jpg
+  https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_1.jpg
 coverOrientation: "portrait"
 author: Michael d Subrizi
 photographer: Michael d Subrizi
@@ -16,46 +16,46 @@ reading_time: 2
 featured: false
 hero_shots:
   - >-
-    https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_1.jpg
+    https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_1.jpg
   - >-
-    https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_2.jpg
+    https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_2.jpg
   - >-
-    https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_3.jpg
+    https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_3.jpg
 gallery:
   - title: After Homework Paris Autunno/Inverno 2019 Galleria
     images:
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_1.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_2.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_3.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_4.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_5.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_6.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_6.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_7.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_7.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_8.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_8.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_9.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_9.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_10.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_10.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_11.jpg
+          https://photos.sguardissimi.com/After_Homework_Paris_Autumn_Winter_2019/After_Homework_Paris_Autumn_Winter_2019_11.jpg
         alt: Immagine di galleria
 ---
 

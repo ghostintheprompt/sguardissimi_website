@@ -7,7 +7,7 @@ categories:
 excerpt: >-
   Marcus Wainwright serve cioccolatini artigianali. Ne mangio tre prima che si spengano le luci. Thom Yorke firma la colonna sonora. Proiezioni di Manhattan che si deformano sulle pareti. Navy, antracite, verde oliva, arancione emergenza. Tessuti tecnici e silhouette sartoriali. Lo voglio indossare. Voglio che lo indossino anche i miei amici.
 cover: >-
-  https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_1.jpg
+  https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_1.jpg
 coverOrientation: "portrait"
 author: Michael d Subrizi
 photographer: Michael d Subrizi
@@ -15,62 +15,62 @@ word_count: 313
 reading_time: 2
 featured: false
 hero_shots:
-  - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_2.jpg
+  - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_2.jpg
     alt: Immagine di galleria
-  - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_3.jpg
+  - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_3.jpg
     alt: Immagine di galleria
-  - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_4.jpg
+  - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_4.jpg
     alt: Immagine di galleria
 gallery:
   - title: Autunno 2020 Settimana della moda di New York
     images:
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_1.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_1.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_2.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_2.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_3.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_3.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_4.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_4.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_5.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_5.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_6.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_6.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_7.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_7.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_8.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_8.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_9.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_9.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_10.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_10.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_11.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_11.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_12.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_12.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_13.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_13.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_14.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_14.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_15.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_15.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_16.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_16.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_17.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_17.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_18.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_18.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_19.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_19.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_20.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_20.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_21.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_21.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_22.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_22.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_23.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_23.jpg
         alt: Immagine di galleria
-      - url: https://media.fiamma.love/fashion_photos/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_24.jpg
+      - url: https://photos.sguardissimi.com/Rag_and_Bone_NYFW_Fall_2020/Rag_and_Bone_NYFW_Fall_2020_24.jpg
         alt: Immagine di galleria
 ---
 

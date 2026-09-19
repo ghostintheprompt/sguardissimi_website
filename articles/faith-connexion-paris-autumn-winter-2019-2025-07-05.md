@@ -7,7 +7,7 @@ categories:
 excerpt: >-
   Vibrazioni da seminterrato CBGB, Iggy Pop che mi ronza in testa, la crudelta tenera di uglywordlwide che buca la camera. Faith Connexion così forte che ti sedurresti da solo allo specchio. Qui dentro ci sono solo le persone che devono esserci.
 cover: >-
-  https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_1.jpg
+  https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_1.jpg
 coverOrientation: "portrait"
 author: Michael d Subrizi
 photographer: Michael d Subrizi
@@ -16,118 +16,118 @@ reading_time: 3
 featured: false
 hero_shots:
   - >-
-    https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_1.jpg
+    https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_1.jpg
   - >-
-    https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_2.jpg
+    https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_2.jpg
   - >-
-    https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_3.jpg
+    https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_3.jpg
 gallery:
   - title: Paris Autunno/Inverno 2019
     images:
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_1.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_1.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_2.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_2.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_3.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_3.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_4.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_4.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_5.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_5.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_6.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_6.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_7.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_7.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_8.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_8.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_9.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_9.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_10.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_10.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_11.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_11.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_12.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_12.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_13.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_13.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_14.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_14.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_15.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_15.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Connexion_Paris_Autumn_Winter_2019_16.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_16.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_17.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_17.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_18.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_18.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_19.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_19.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_20.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_20.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_21.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_21.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_22.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_22.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_23.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_23.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_24.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_24.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_25.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_25.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_26.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_26.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_27.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_27.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_28.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_28.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_29.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_29.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_30.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_30.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_31.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_31.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_32.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_32.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_33.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_33.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_34.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_34.jpg
         alt: Immagine di galleria
       - url: >-
-          https://media.fiamma.love/fashion_photos/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_35.jpg
+          https://photos.sguardissimi.com/Faith_Connexion_Paris_Autumn_Winter_2019/Faith_Connexion_Paris_Autumn_Winter_2019_35.jpg
         alt: Immagine di galleria
 ---
 

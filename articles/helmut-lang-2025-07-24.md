@@ -17,7 +17,7 @@ reading_time: 5
 featured: false
 coverOrientation: "landscape"
 videos:
-  - url: https://media.fiamma.love/fashion_video/helmut_lang.mp4
+  - url: https://video.sguardissimi.com/helmut_lang.mp4
     title: "Helmut Lang Returns"
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---
