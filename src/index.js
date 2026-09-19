@@ -64,7 +64,7 @@ export default {
       "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
       "font-src 'self' https://fonts.gstatic.com",
       "img-src 'self' data: https:",
-      "media-src 'self' https://media.fiamma.love",
+      "media-src 'self' https://video.sguardissimi.com",
       "connect-src 'self' https://static.cloudflareinsights.com",
       "object-src 'none'",
       "base-uri 'self'",
