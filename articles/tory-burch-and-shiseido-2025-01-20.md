@@ -59,7 +59,7 @@ Fondata nel 1743. Secoli in queste pareti. Oscar de la Renta ha sfilato in quest
 
 Non uno studio normale. Una casa d'aste. Old Masters, ricchezza generazionale, autorità culturale. Fotografare qui alza tutto.
 
-## La Verità
+## Anni per arrivarci
 
 Da assistente sui suoi set a fotografare dietro le quinte dentro la casa d'aste di Sotheby's. Cerchio completo. Traiettoria guadagnata in anni, da entrambe le parti.
 

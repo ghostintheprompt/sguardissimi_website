@@ -8,7 +8,7 @@ excerpt: >-
   guidava una cyber-rivoluzione tra sacchi verdi della spazzatura e fantasie
   distopiche a tre seni.
 date: '2025-07-05'
-author: Michael D. Subrizi
+author: Michael d Subrizi
 featured: false
 cover: >-
   https://photos.sguardissimi.com/GCDS_Milan_Spring_Summer_2019/GCDS_Milan_Spring_Summer_2019_1.jpg
@@ -79,7 +79,7 @@ gallery:
       - url: >-
           https://photos.sguardissimi.com/GCDS_Milan_Spring_Summer_2019/GCDS_Milan_Spring_Summer_2019_21.jpg
         alt: Immagine di galleria
-photographer: Michael D. Subrizi
+photographer: Michael d Subrizi
 word_count: 656
 reading_time: 3
 ---
@@ -114,7 +114,7 @@ E poi quei tacchi Morso della collezione "Dracula", fatti come bocche piene di d
 
 Il seguito celebrity è reale: Doja Cat in quel body GCDS trasparente, come se certi vestiti fossero portali verso un'altra dimensione. Bella Hadid, Kendall Jenner, Hailey Bieber che indossano GCDS come se fosse una religione.
 
-## SS25: Flowers in Concrete
+## Flowers in Concrete
 
 Alla SS25, con la collezione "Flowers in Concrete", Carine Roitfeld firma lo styling di GCDS con la colonna sonora di Charli XCX. Verde brat dappertutto. Minigonne, scolli profondissimi, collant a rete, body trasparenti.
 

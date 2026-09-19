@@ -205,7 +205,7 @@ Madonna in corsetti chiodati. Rihanna in armatura cromata. Lady Gaga dentro arch
 
 L'elenco clienti sembra un riassunto di due decenni di dominio pop.
 
-## Autunno 2019: famiglia
+## Trentotto look
 
 [GALLERY:0]
 

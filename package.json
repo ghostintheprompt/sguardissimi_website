@@ -2,7 +2,9 @@
   "name": "sguardissimi",
   "version": "1.0.0",
   "scripts": {
-    "build": "node build/build-system.js"
+    "build": "node build/build-system.js",
+    "article:new": "node scripts/new-article.mjs",
+    "article:publish": "node scripts/publish.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

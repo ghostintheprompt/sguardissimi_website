@@ -150,7 +150,7 @@ Su per la scala di marmo che gira stretta. Ogni passo rimbalza in corridoi che h
 
 
 
-## Leonard Paris: Volo AW19 Parigi-Jaipur
+## Leonard, imbarco per Jaipur
 
 Christine Phung aveva capito perfettamente il compito.
 
@@ -168,7 +168,7 @@ Il programma accessori è genio travestito da capriccio. Flight jacket in jacqua
 
 
 
-## Elie Saab: Power of Love
+## Elie Saab, il diplomatico più seducente
 
 Se Leonard è la ribellione gioiosa della moda, Elie Saab è il suo diplomatico più seducente.
 

@@ -36,3 +36,6 @@ node_modules/
 
 # Local wrangler/miniflare dev state — never commit
 .wrangler/
+
+# Encoded films for upload (large, regenerable)
+scripts/media-upload/encoded/

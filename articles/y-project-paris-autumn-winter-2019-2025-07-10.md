@@ -197,7 +197,7 @@ I gioielli spiccano subito: collane smaltate, spesse, firmate Stéphanie D'heyge
 
 Attraverso l'obiettivo guardo come funziona lo spazio negativo. Martens costruisce il volume negli interstizi tra corpo e tessuto invece che attraverso la struttura tradizionale. Ne escono silhouette che non avevo mai visto prima, forme che si muovono in modi inattesi.
 
-## Perché funzionava
+## Senza dichiarazioni roboanti
 
 L'atmosfera resta rilassata nonostante la complessità concettuale. È una cosa molto parigina: idee serie presentate senza dichiarazioni roboanti, lasciando parlare il mestiere. Dietro le quinte sembrano divertirsi tutti, cosa tutt'altro che scontata nelle sfilate di moda sperimentale.
 

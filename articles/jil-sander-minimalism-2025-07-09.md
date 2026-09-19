@@ -219,7 +219,7 @@ Il suo lavoro da Bally mostrava contenimento con una vena romantica. Cappotti di
 
 Prima collezione a settembre 2025. Il sistema moda guarda per capire se manterra quella precisione. La matematica che fa funzionare la riduzione.
 
-## La verità
+## Togli finché resta soltanto quello che conta
 
 Due flight case più in alto, Primavera/Estate 2019. Chi guarda da terra perde quello che dall'alto vedi subito: come ogni look si collega all'altro, come le proporzioni si parlano, dove inizia l'architettura.
 
@@ -230,7 +230,5 @@ Hyunji Shin cammina. Cashmere beige. La luce scorre sulle spalle. Il viso resta 
 Jil Sander, ormai oltre gli ottanta, si e allontanata da tempo. Ma i codici restano permanenti. Disciplina di Amburgo che incontra il mestiere di Milano.
 
 Bellotti eredita la precisione. È anche la comprensione che la riduzione, quando e eseguita con questa esattezza, non svanisce. Si intensifica.
-
-Togli finche resta soltanto quello che conta.
 
 Milano. Primavera/Estate 2019.

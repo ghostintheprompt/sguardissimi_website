@@ -5,7 +5,7 @@ categories:
   - high-fashion-and-culture
 excerpt: >-
   Chiesa di San Fedele dietro il Duomo. Calcaterra mostra cappotti bianchi che galleggiano invece di cadere, maniche scolpite nell'aria. Milano al suo punto più preciso: volume senza costume, lo spazio tra corpo e tessuto che racconta tutta la storia.
-author: Michael D. Subrizi
+author: Michael d Subrizi
 template: gallery
 cover: >-
   https://photos.sguardissimi.com/Calcaterra_Milan_Spring_Summer_2019/Calcaterra_Milan_Spring_Summer_2019_1.jpg
@@ -175,7 +175,7 @@ gallery:
       - url: >-
           https://photos.sguardissimi.com/Calcaterra_Milan_Spring_Summer_2019/Calcaterra_Milan_Spring_Summer_2019_54.jpg
         alt: Immagine di galleria
-photographer: Michael D. Subrizi
+photographer: Michael d Subrizi
 word_count: 364
 reading_time: 2
 featured: false

@@ -346,7 +346,7 @@ Beyoncé compra nel negozio di West Hollywood senza stylist. Il vestito bianco R
 
 Valutazione da miliardo nel 2023. Il mercato statunitense vale il 35% delle vendite. Dal Settimana della moda di New York a Parigi nel 2022. Evoluzione senza perdere il fondamento.
 
-## La verità
+## Stai rinascendo
 
 Luce attraverso il tessuto. Sole sulla pelle. Spirituale e sensuale non sono separati: sono la stessa cosa. Un'idea australiana della bellezza come fenomeno naturale, non come performance.
 

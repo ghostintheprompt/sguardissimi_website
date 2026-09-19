@@ -224,7 +224,7 @@ Ma attraverso il mio obiettivo è diverso. Plein capisce che le sfilate devono d
 
 300 milioni di vendite. Oltre 100 negozi nel mondo. I critici liquidano. Plein costruisce un impero rendendo il lusso intrattenimento, non intimidazione.
 
-## La Verità
+## Più concerto che sfilata
 
 Puro eccesso Plein. Pelle, latex, motivo pitone. Cristalli, metallo, borchie e spille che catturano ogni fonte di luce moltiplicata dagli specchi infiniti. Nero e rosso a dominare. Mimetico contro materiali di lusso.
 

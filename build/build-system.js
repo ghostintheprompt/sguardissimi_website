@@ -362,7 +362,7 @@ class ArticleBuildSystem {
 
   addMetaInfo(meta) {
     // Keep the archive Italian-first at the article level too.
-    return '<div class="article-meta">Fotografato e scritto da Michael d Subrizi</div>';
+    return '<div class="article-meta">Fotografato e scritto da Michael <span class="dlow">d</span> Subrizi</div>';
   }
 
   renderDesignerLinks(designerInfo) {

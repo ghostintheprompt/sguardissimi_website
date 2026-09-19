@@ -152,7 +152,7 @@ reading_time: 5
 featured: false
 ---
 
-## **Vivere Leonard: fantasia di seta tra quattro case**
+## Un biglietto per la vita che stai costruendo
 
 La carta d'imbarco dice "Flight AW19 Paris-Jaipur", ma in realtà è un biglietto per la vita che stai costruendo tra continenti: la villa in Puglia dove la colazione succede in terrazza dentro caftani di seta stampati a orchidea, la casa a Montauk dove quelle stesse stampe stanno perfettamente contro il cedro consumato dal sale, West Palm quando serve calore, la Riviera francese quando hai bisogno di ricordarti perché hai scelto questa forma precisa di caos bellissimo.
 

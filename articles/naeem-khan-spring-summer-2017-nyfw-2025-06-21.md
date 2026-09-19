@@ -51,8 +51,8 @@ gallery:
       - url: >-
           https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2017/Naeem_Khan_NYFW_Spring_Summer_2017_12.jpg
         alt: Immagine di galleria
-photographer: Michael D. Subrizi
-author: Michael D. Subrizi
+photographer: Michael d Subrizi
+author: Michael d Subrizi
 word_count: 106
 reading_time: 1
 featured: false

@@ -6,7 +6,7 @@ categories:
   - high-fashion-and-culture
 excerpt: >-
   1334 York Avenue. Quattro decenni passati a trasformare la moda in fatto culturale. Louis Vuitton, Valentino, Gucci, Tom Ford. Quando la sala, la lista invitati e il tempismo devono cadere al millimetro, chiamano KCD.
-author: Michael D. Subrizi
+author: Michael d Subrizi
 word_count: 958
 reading_time: 5
 featured: false
@@ -94,7 +94,7 @@ La storia delle origini nel centro cattura quello che rende speciale la moda new
 
 L'energia creativa di New York tiene KCD più affilata. Innovano perché New York pretende innovazione. Restano culturalmente rilevanti perché la cultura newyorkese corre più veloce delle tradizioni del lusso europeo.
 
-## La verità
+## Il modello che tutti copiano
 
 KCD ha costruito il modello che tutti provano a copiare. Ha aperto la strada a una PR moda intesa come programmazione culturale e non come semplice promozione di prodotto. Ha creato l'esperienza moderna della settimana della moda che oggi tutti danno per scontata. Ha rapporti con i veri broker di potere del settore, da generazioni.
 

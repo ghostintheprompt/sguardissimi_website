@@ -183,8 +183,8 @@ gallery:
       - url: >-
           https://photos.sguardissimi.com/Alberto_Zambelli_Milano_Summer_Spring_2019/Alberto_Zambelli_Milano_Summer_Spring_2019_57.jpg
         alt: Immagine di galleria
-author: Michael D. Subrizi
-photographer: Michael D. Subrizi
+author: Michael d Subrizi
+photographer: Michael d Subrizi
 word_count: 104
 reading_time: 1
 featured: false

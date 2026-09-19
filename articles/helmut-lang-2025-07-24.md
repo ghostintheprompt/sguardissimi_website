@@ -22,7 +22,7 @@ videos:
     credit: "Fotografato e scritto da Michael d Subrizi"
 ---
 
-## **Partenza dalla Forty Deuce: si sale**
+## Forty Deuce, poi si sale
 
 **Piano strada. Forty Deuce. Battito continuo.** Cara in Helmut Lang sulla 42esima, dove il caos respira davvero: ambizione, cemento, rumore, corpi in movimento. Poi si sale. Ascensore. Un piano, dieci, venti. **La città si stacca sotto di noi. Mi sta portando nelle nuvole.**
 
@@ -32,7 +32,7 @@ Trenta piani. Il rumore si abbassa. Quaranta piani. La geometria di Manhattan so
 
 [VIDEO:1]
 
-## **Cloud City: magnetismo attraverso la geometria**
+## Cloud City
 
 **Sopra il ruggito della città, silenzio.** O meglio, non silenzio: un ronzio. L'edificio che respira. I pannelli che vibrano per il calore del sole. **Il calore del suo corpo. Il calore di Helmut Lang.** Cara si muove in questo spazio ad alta quota dove le linee pulite diventano psichedeliche, dove l'assenza deliberata di ornamento toglie tutto il superfluo finché resta solo magnetismo puro.
 
@@ -62,7 +62,7 @@ Gli abiti non competono con la città che si scioglie sotto. Non la accompagnano
 
 **Questo è l'equivalente moda del modernismo architettonico:** pulito, onesto, rivoluzionario proprio perché non chiede scusa per ciò che è. Fotografare Cara in Lang diventa una meditazione sul fine essenziale della moda. Come si crea desiderio per sottrazione? Come si rende il silenzio più forte del rumore?
 
-## La visione di cui il 2025 ha bisogno
+## Ti rovina per il resto
 
 **Fotografare Helmut Lang sopra Manhattan ti rovina per tutta la fotografia di moda che si affida ai gimmick invece che ai vestiti.** Il modo in cui la luce naturale incontra i tessuti tecnici e la sartoria precisa crea composizioni che sembrano architettoniche, non decorative. Le palette monocrome e le silhouette geometriche danno una struttura che rende intenzionale persino lo scatto ambientato più libero.
 

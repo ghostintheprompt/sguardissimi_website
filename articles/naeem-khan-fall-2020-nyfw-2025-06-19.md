@@ -240,8 +240,8 @@ gallery:
       - url: >-
           https://photos.sguardissimi.com/Naeem_Khan_NYFW_Fall_2020/Naeem_Khan_NYFW_Fall_2020_76.jpg
         alt: Immagine di galleria
-author: Michael D. Subrizi
-photographer: Michael D. Subrizi
+author: Michael d Subrizi
+photographer: Michael d Subrizi
 word_count: 24
 reading_time: 1
 featured: false

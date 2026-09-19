@@ -1198,3 +1198,6 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--sg-red); outlin
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; }
 }
+
+/* The name is written with a lowercase d; keep it lowercase inside all-caps rails. */
+.dlow { text-transform: lowercase; }

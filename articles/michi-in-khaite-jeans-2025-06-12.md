@@ -25,7 +25,7 @@ Puro chic marrone e bianco del centro di come era davvero. Siamo nel futuro ma i
 
 [VIDEO:1]
 
-## Khaite: sussurro e urlo
+## Sussurro e urlo
 
 Catherine Holstein costruisce Khaite dal suo studio di SoHo. 2016. Il centro quando il centro voleva ancora dire qualcosa. Quando la città apparteneva ai senza paura.
 
