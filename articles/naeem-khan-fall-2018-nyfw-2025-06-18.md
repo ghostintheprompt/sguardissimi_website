@@ -1,13 +1,11 @@
 ---
 template: gallery-video
-title: "Naeem Khan Autunno 2018 ricama con autorità"
+title: "Nessuno misurava i fotografi"
 date: '2025-06-18'
 categories:
   - high-fashion-and-culture
 excerpt: >-
-  Naeem Khan fa ciò che gli riesce meglio: superficie, precisione ed
-  eveningwear costruito per tenere una stanza. Ricamo, movimento e un glamour
-  che rifiuta di sembrare fragile.
+  Ho passato una settimana con lui. È qui che sono diventato fotografo di moda.
 cover: /img/posters/naeem-khan-fall-2018-nyfw-2025-06-18.jpg
 coverOrientation: "landscape"
 video:
@@ -47,6 +45,12 @@ featured: false
 
 [GALLERY:0]
 
-## Dietro le quinte nello studio di Naeem
+Questo era il grande. Ho passato con lui una settimana, forse più. È qui che sono diventato fotografo di moda, grazie a Marco, Adam, Nick, Isabel e a tutti. Mi hanno fatto quello che sono oggi nella moda.
 
-Girato da Michael d Subrizi durante la Settimana della moda di New York nello studio di Naeem a New York.
+Guardate il video.
+
+Qui le cose sono diventate più complesse, più profonde, non dette.
+
+Avrò fotografato 75 modelle in una settimana, e nemmeno la metà è arrivata alla sfilata. Credo servisse essere alte, quella stagione: un metro e ottanta, più o meno.
+
+Per fortuna nessuno misurava i fotografi.

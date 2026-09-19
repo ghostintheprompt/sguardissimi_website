@@ -1,13 +1,11 @@
 ---
 template: gallery-video
-title: "Naeem Khan Primavera/Estate 2018 è colore, superficie, controllo"
+title: "Il manichino è diventato una modella"
 date: '2025-06-20'
 categories:
   - high-fashion-and-culture
 excerpt: >-
-  Glamour da passerella newyorkese con disciplina sotto la superficie. Ricamo,
-  colore e movimento gestiti da un designer che sa che il lusso funziona solo
-  quando il controllo è assoluto.
+  Hanno costruito un abito addosso a una modella. Io guardavo a bocca aperta.
 cover: 'https://photos.sguardissimi.com/Naeem_Khan_NYFW_Spring_Summer_2018/Naeem_Khan_NYFW_Spring_Summer_2018_1.jpg'
 coverOrientation: "portrait"
 video:
@@ -129,10 +127,14 @@ featured: false
 
 [GALLERY:0]
 
-## Il processo di fitting
+Naeem Khan è a livello di Miles Davis. Probabilmente lo farebbe incazzare. Magari lo ama. Non lo so. So solo che quando Naeem ama qualcosa, di solito ha ragione.
 
-Girato da Michael D. Subrizi durante la Settimana della moda di New York nello studio di Naeem a New York, questo video mostra il momento cruciale del fitting nella preparazione della settimana della moda.
+Questo è il momento in cui hanno costruito un abito addosso a una modella. Dopo averlo scattato ho avuto lavoro costante per qualche anno.
 
-La collezione Primavera/Estate 2018 di Naeem Khan per la Settimana della moda di New York porta sulla passerella di New York una celebrazione vibrante di ricamo, colore e glamour moderno. La sfilata mette in scena disegni intricati, silhouette forti e un'energia che cattura davvero lo spirito della città.
+Stavo diventando a mio agio con loro. Stavo lì mentre creavano. Di sartoria non sapevo niente, e guardavo a bocca aperta. Era ipnotico. La squadra si anticipava a vicenda: qualcuno con le forbici in mano, qualcuno che faceva girare i manichini.
 
-Dietro le quinte l'atmosfera è elettrica mentre le modelle si preparano a mostrare l'artigianalità distintiva di Khan è la sua ossessione per il dettaglio. Ogni look riflette un equilibrio tra tradizione e innovazione, trasformando la collezione in uno dei momenti forti della stagione.
+Poi il manichino è diventato una modella. Naeem ha avuto un'idea, e la sua squadra ha fatto un abito, letteralmente, direttamente addosso a lei.
+
+Pezzo per pezzo l'hanno cucito addosso, girando e aggiustando.
+
+La luce si piegava intorno a lei. Si sentiva bella: lo vedevo da come inclinava la testa mentre guardavo nel mirino. Questo brand fa sentire belle le donne. Ma è anche il tipo di abito con cui vinci un Oscar e attraversi Los Angeles a tutta velocità con la testa fuori dal tettuccio di una limousine, o sposi un miliardario, o balli con un presidente.
