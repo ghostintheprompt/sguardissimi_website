@@ -1,6 +1,6 @@
 ---
 template: image
-title: 'KCD: la casa che governa la settimana della moda'
+title: "KCD è la casa che governa la settimana della moda"
 date: '2025-06-22'
 categories:
   - high-fashion-and-culture

@@ -1,6 +1,6 @@
 ---
 template: video
-title: 'Rebecca in Jacquemus: vagando nella notte eterna'
+title: "Rebecca in Jacquemus vaga nella notte eterna"
 date: '2025-07-10'
 categories:
   - high-fashion-and-culture

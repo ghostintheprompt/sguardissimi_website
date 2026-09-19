@@ -1,6 +1,6 @@
 ---
 template: gallery-video
-title: 'Naeem Khan Primavera/Estate 2018: colore, superficie, controllo'
+title: "Naeem Khan Primavera/Estate 2018 è colore, superficie, controllo"
 date: '2025-06-20'
 categories:
   - high-fashion-and-culture

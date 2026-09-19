@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Pyer Moss: anche questo e americano'
+title: "Anche questo è americano, dice Pyer Moss"
 date: '2025-07-04'
 categories:
   - high-fashion-and-culture

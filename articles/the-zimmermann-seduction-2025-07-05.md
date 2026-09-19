@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: "Zimmermann: quando l'onda della bellezza ti cade addosso"
+title: "L'onda della bellezza di Zimmermann ti cade addosso"
 categories:
   - high-fashion-and-culture
 excerpt: >-

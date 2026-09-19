@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'La dinastia beauty: come 5 artisti hanno plasmato una generazione di look da passerella'
+title: "La dinastia beauty, cinque artisti e una generazione di look da passerella"
 date: '2025-07-05'
 categories:
   - high-fashion-and-culture

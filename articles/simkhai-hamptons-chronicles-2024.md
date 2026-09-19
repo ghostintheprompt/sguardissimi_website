@@ -1,6 +1,6 @@
 ---
 template: video
-title: "Simkhai: danza, Hamptons è un abito che ha incontrato l'oceano"
+title: "Simkhai danza, gli Hamptons sono un abito che ha incontrato l'oceano"
 categories:
   - high-fashion-and-culture
 word_count: 462

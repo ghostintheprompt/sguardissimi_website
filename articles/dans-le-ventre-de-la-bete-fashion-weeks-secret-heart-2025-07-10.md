@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Dans le Ventre de la Bête: Il Cuore Segreto della Fashion Week'
+title: "Dans le Ventre de la Bête, il cuore segreto della Fashion Week"
 date: '2025-07-10'
 categories:
   - high-fashion-and-culture

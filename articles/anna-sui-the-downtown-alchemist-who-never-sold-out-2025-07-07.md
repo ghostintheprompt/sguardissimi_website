@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: "Anna Sui: lei c'era davvero"
+title: "Anna Sui c'era davvero"
 date: '2025-07-07'
 categories:
   - high-fashion-and-culture

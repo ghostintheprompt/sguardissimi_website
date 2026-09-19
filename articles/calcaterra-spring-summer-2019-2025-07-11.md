@@ -1,5 +1,5 @@
 ---
-title: "Calcaterra: il volume come architettura"
+title: "Calcaterra e il volume come architettura"
 date: '2025-07-11'
 categories:
   - high-fashion-and-culture

@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'After Homework: tutti ci trasformiamo in liceali annoiati'
+title: "Da After Homework tutti ci trasformiamo in liceali annoiati"
 date: '2025-07-03'
 categories:
   - high-fashion-and-culture

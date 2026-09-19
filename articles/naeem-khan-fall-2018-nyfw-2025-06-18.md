@@ -1,6 +1,6 @@
 ---
 template: gallery-video
-title: 'Naeem Khan Autunno 2018: ricamo con autorità'
+title: "Naeem Khan Autunno 2018 ricama con autorità"
 date: '2025-06-18'
 categories:
   - high-fashion-and-culture

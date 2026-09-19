@@ -1,6 +1,6 @@
 ---
 template: video
-title: "Lazaro: energia luminosa nel bridal"
+title: "Energia luminosa nel bridal di Lazaro"
 date: '2024-07-14'
 categories:
   - high-fashion-and-culture

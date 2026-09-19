@@ -1,6 +1,6 @@
 ---
 template: video
-title: 'Dietro le quinte con Berta: dove il sogno bridal arriva al suo vertice'
+title: "Dietro le quinte con Berta, dove il sogno bridal arriva al vertice"
 date: '2024-03-20'
 categories:
   - high-fashion-and-culture

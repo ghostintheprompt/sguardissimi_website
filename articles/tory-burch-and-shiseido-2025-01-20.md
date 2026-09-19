@@ -1,6 +1,6 @@
 ---
 template: video
-title: 'Tory Burch da Sotheby''s: il punto più alto della moda newyorkese'
+title: "Tory Burch da Sotheby's è il punto più alto della moda newyorkese"
 date: '2025-01-20'
 categories:
   - high-fashion-and-culture

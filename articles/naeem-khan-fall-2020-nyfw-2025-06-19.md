@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Naeem Khan Autunno 2020: glamour moderno, nessuna scusa'
+title: "Naeem Khan Autunno 2020 è glamour moderno senza scuse"
 date: '2025-06-19'
 categories:
   - high-fashion-and-culture

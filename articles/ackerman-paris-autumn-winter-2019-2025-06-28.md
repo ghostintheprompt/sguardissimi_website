@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: "Ackermann: la verticale di Michele è l'uscita con Bella"
+title: "Da Ackermann la verticale di Michele è l'uscita con Bella"
 date: '2025-06-28'
 categories:
   - high-fashion-and-culture

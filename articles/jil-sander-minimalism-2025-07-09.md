@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Jil Sander: riduzione con i denti'
+title: "La riduzione di Jil Sander ha i denti"
 date: '2025-07-09'
 categories:
   - high-fashion-and-culture

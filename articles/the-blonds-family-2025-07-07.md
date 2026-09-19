@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: "The Blonds: quando la moda si fa famiglia"
+title: "Con The Blonds la moda si fa famiglia"
 excerpt: "Phillipe e David Blond. Li ho fotografati cinque volte. Una dozzina di immagini finite nel loro libro Rizzoli. Beyonce, Madonna, Rihanna, Lady Gaga nei loro abiti. Trentamila cristalli sopravvissuti a quarantanove sfilate. Non e fortuna. E mestiere travestito da festa."
 cover: "https://photos.sguardissimi.com/The_Blonds_NYFW_Fall_2019/The_Blonds_NYFW_Fall_2019_1.jpg"
 coverOrientation: "portrait"

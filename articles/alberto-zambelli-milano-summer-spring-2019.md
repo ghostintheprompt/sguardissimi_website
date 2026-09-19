@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Alberto Zambelli: Milano Primavera/Estate 2019'
+title: "Alberto Zambelli a Milano, Primavera/Estate 2019"
 date: '2018-09-22'
 categories:
   - high-fashion-and-culture

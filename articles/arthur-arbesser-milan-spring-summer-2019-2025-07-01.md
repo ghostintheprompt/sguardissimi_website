@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Arthur Arbesser: ceramica in movimento'
+title: "La ceramica in movimento di Arthur Arbesser"
 date: '2025-07-01'
 categories:
   - high-fashion-and-culture

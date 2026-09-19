@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Caos a Milano: quando Philipp Plein trasforma la passerella in un thriller'
+title: "Caos a Milano e Philipp Plein trasforma la passerella in un thriller"
 date: '2025-06-23'
 categories:
   - high-fashion-and-culture

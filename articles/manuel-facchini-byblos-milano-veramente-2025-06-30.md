@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Facchini: Milano Veramente'
+title: "Milano Veramente, secondo Facchini"
 categories:
   - high-fashion-and-culture
 excerpt: >-

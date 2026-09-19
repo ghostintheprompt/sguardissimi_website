@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'Y/Project: quando Sora brillava nella Parigi sperimentale'
+title: "Da Y/Project Sora brillava nella Parigi sperimentale"
 date: '2025-07-10'
 categories:
   - high-fashion-and-culture

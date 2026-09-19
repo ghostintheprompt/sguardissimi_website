@@ -1,6 +1,6 @@
 ---
 template: gallery-video
-title: 'Naeem Khan Primavera/Estate 2017: precisione in piena fioritura'
+title: "Naeem Khan Primavera/Estate 2017 è precisione in piena fioritura"
 date: '2025-06-21'
 categories:
   - high-fashion-and-culture

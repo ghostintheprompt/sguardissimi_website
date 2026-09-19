@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'GCDS: Quando la Fashion Week è diventata un rave sotterraneo'
+title: "GCDS ha trasformato la Fashion Week in un rave sotterraneo"
 categories:
   - high-fashion-and-culture
 excerpt: >-

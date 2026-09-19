@@ -1,11 +1,11 @@
 ---
 template: gallery
-title: "Dentro l'Opéra: Stella McCartney diffonde amore attraverso l'architettura"
+title: "Stella all'Opéra"
 date: '2025-07-06'
 categories:
   - high-fashion-and-culture
 excerpt: >-
-  L'Opéra Garnier. Eccesso barocco dorato che incontra un design guidato dalle convinzioni. Cappotti con spalle forti, Principe di Galles, eco-pelliccia che si muove meglio di quella vera. Stella in stato di grazia.
+  Mio zio l'ha fotografata a SoHo prima che ce la facesse. Poi Kaia, e l'Opéra Garnier: entro e mi manca il fiato.
 cover: https://photos.sguardissimi.com/Stella_McCartney_Paris_Autumn_Winter_2019/Stella_McCartney_Paris_Autumn_Winter_2019_1.jpg
 coverOrientation: "portrait"
 author: Michael d Subrizi
@@ -336,56 +336,39 @@ gallery:
               https://photos.sguardissimi.com/Stella_McCartney_Paris_Spring_Summer_2019/Stella_McCartney_Paris_Spring_Summer_2019_56.jpg
         alt: Immagine di galleria
 ---
+
+Mio zio l'ha fotografata a SoHo, prima che ce la facesse. Cindy Crawford. Ogni Ringraziamento raccontava quanto fosse a posto, e si vantava, ovviamente. Io avevo sette anni.
+
+Sono cresciuto negli anni Ottanta con lei ovunque, l'epoca delle supermodelle. Adesso c'è sua figlia. Kaia. Stessa presenza, prossima generazione.
+
 ## L'Opéra
 
-L'Opéra Garnier. Autunno/Inverno 2019. Stella McCartney.
+Opéra Garnier. Autunno/Inverno 2019. Stella McCartney.
 
-Eccesso barocco dorato, secoli di foglia d'oro che catturano ogni fonte di luce, ordini sovrapposti in verticale che creano angoli di ripresa impossibili. Un'architettura pensata per la gerarchia: palchi sopra, scena sotto, fotografi incastrati dove capita.
+Entro e mi manca il fiato. Oro. Ancora oro. Foglia d'oro su ogni superficie, secoli di luce che rimbalza. Velluto rosso, balconi dorati. Palchi sopra, scena sotto, fotografi incastrati dove capita. Un teatro costruito per la gerarchia, con angoli di ripresa impossibili.
 
-Dentro, qualcosa brucia.
+Il lampadario, sospeso: sette tonnellate di bronzo e cristallo.
 
-Cappotti dalle spalle forti. Principe di Galles. Abiti fluttuanti con pannelli rigidi: architettura e fluidità nello stesso gesto. Power dressing senza scuse.
+Dentro, qualcosa brucia. Cappotti dalle spalle forti. Principe di Galles. Abiti che fluttuano con pannelli rigidi. Neri, grigi, creme, poi rosa, giallo acceso, azzurro cielo. L'eco-pelliccia si muove meglio della vera.
 
-Qui fotografi una furia cinematografica, catturi quell'atmosfera dinamica che separa il lavoro di Stella da quello di chi si limita a fare vestiti. Questa è convinzione tradotta in silhouette.
+Kaia, di solito, scherza con tutti sul riser. Qui no: il riser è rialzato, è un campo lungo, troppo lontano. Mi basta guardarla.
+
+Più su, il soffitto. Chagall, 1964. Quattordici opere, figure che galleggiano sopra tutto quell'oro.
 
 [GALLERY:0]
 
-I colori: neri, grigi, creme che costruiscono la base, poi rosa, giallo acceso, azzurro cielo che impediscono al tutto di diventare austero. Il rosa di Stella, ma più affilato. Il giallo porta energia solare. L'azzurro fotografa pulito.
+Avevo il pass di Chanel per l'anniversario di Coco. L'ho ceduto a un amico: Stella l'avevo già fotografata e sapevo che l'avrei fotografata ancora. Nessun rimpianto. Chanel è Chanel. Ma Stella all'Opéra è il motivo per cui ti guadagni l'accesso.
 
-Spalle forti. Principe di Galles indossato senza chiedere permesso. Elementi fluttuanti che attraversano l'architettura impossibile dell'Opéra come se fossero nati per quello spazio. Eco-pelliccia che performa meglio della vera: più leggera, più pulita dentro l'inquadratura.
+## Prima, Milano
 
-Così in alto arrivano le sfilate quando tutto funziona. Un vertice.
+Sei mesi prima. Primavera/Estate 2019. Quartiere Magenta. Garden party, nessuna passerella: le modelle camminano tra gli ospiti. Cosmo Pyke, Nadia Rose, DJ Fabienne. Marilyn Manson, Isabella Ferrari, Francesco Vezzoli, Lapo Elkann.
 
-Avevo il pass di Chanel per l'anniversario di Coco. L'ho ceduto per aiutare un amico, perché avevo già fotografato Stella e sapevo che l'avrei fotografata ancora. Nessun rimpianto. Chanel è Chanel. Ma Stella all'Opéra, quell'architettura dorata che incontra un design guidato dalle convinzioni, è il motivo per cui ti guadagni l'accesso.
-
-## Prima Milano
-
-Sei mesi prima. Primavera/Estate 2019. Quartiere Magenta, Milano. Garden party.
-
-Nessuna passerella. Nessuna gerarchia. Le modelle camminano tra gli ospiti, non davanti a loro. Cosmo Pyke, Nadia Rose, DJ Fabienne a costruire la colonna sonora. Formato da celebrazione, non da spettacolo.
-
-Si presenta Marilyn Manson. Oscurità teatrale che si mescola con le personalità italiane della moda: Isabella Ferrari, Francesco Vezzoli, Lapo Elkann. I vestiti funzionano insieme per l'estetica goth e per una convinzione ambientale reale. Potevi preoccuparti del pianeta e restare pericoloso.
+Parka per la settimana della moda o per la montagna. Borse da trekking, sofisticate. Pezzi trasparenti in polimeri vegetali, non PVC, compostabili. 95% di materiali responsabili, viscosa svedese da foreste certificate. La filiera si può seguire.
 
 [GALLERY:1]
 
-Formato garden: scala intima, accesso democratico. Tocchi i pezzi. Vedi come si muovono. Cappotti sartoriali che non si preoccupano del genere. Parka capaci di sopravvivere alla settimana della moda o ai sentieri di montagna. Borse con praticità da trekking avvolta nella sofisticazione.
+## Il filo
 
-Pezzi trasparenti: polimeri vegetali, non PVC. Compostabili. L'innovazione non era la sostituzione: era un miglioramento della performance.
+Sheila Hicks, 85 anni, artista tessile: collane e cinture in filato ritorto per l'Autunno/Inverno 2019. Rossi profondi, gialli accesi, blu elettrici dentro palette neutre. Fatte a mano, ognuna unica.
 
-95% materiali responsabili. Non marketing: dato documentato. Viscosa svedese da foreste certificate. Trasparenza della filiera come pratica di business.
-
-Non ti chiede un atto di fede. La prova esiste. La puoi seguire.
-
-## Perché Funziona
-
-Sheila Hicks ha creato quelle collane e cinture in filato ritorto per l'Autunno/Inverno 2019. Ottantacinque anni, artista tessile. Colori vibranti, rossi profondi, gialli accesi, blu elettrici, che portano vita dentro palette neutre. Qualità fatta a mano. Ogni pezzo unico.
-
-Ricerca sui materiali: anni di sviluppo per creare sintetici capaci di uguagliare o superare i materiali naturali. Non sostituzione. Miglioramento della performance.
-
-Nel 2019 si riprende il controllo da Kering. L'indipendenza significa decisioni fondate sulle convinzioni invece che sui report trimestrali. Formato garden party. Dedica dell'albero all'Opéra. Collaborazione con artigiani indigeni. Trasparenza della filiera.
-
-Le persone pagano per un lusso allineato ai propri valori quando la qualità giustifica il prezzo e la convinzione si sente vera.
-
-L'eccesso barocco dell'Opéra al servizio di una visione sostenibile. Il giardino milanese che democratizza l'accesso. L'eco-pelliccia che si muove meglio della vera. La trasparenza della filiera come pratica, non come slogan.
-
-Convinzione, con l'indipendenza necessaria per agire. È questo che fotografa bene.
+Anni di ricerca sui materiali per sintetici che uguagliano i naturali. Nel 2019 Stella si riprende il controllo da Kering. Un albero dedicato all'Opéra. Artigiani indigeni.

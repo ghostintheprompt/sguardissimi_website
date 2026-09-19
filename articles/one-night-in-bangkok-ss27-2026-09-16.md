@@ -1,6 +1,6 @@
 ---
 template: gallery
-title: 'One Night in Bangkok: la banca si ricorda di tutto'
+title: "One Night in Bangkok e la banca si ricorda di tutto"
 date: '2026-09-16'
 categories:
   - high-fashion-and-culture

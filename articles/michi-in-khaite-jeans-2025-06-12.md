@@ -1,6 +1,6 @@
 ---
 template: video
-title: "Michi: un glitch nella dimensione dei cinque borough"
+title: "Michi è un glitch nella dimensione dei cinque borough"
 date: '2025-06-12'
 categories:
   - high-fashion-and-culture
