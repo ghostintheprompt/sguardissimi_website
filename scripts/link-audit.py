@@ -37,12 +37,12 @@ class Links(HTMLParser):
         super().__init__(); self.found = []
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
+        if tag == 'link' and (a.get('rel') or '').lower() in ('preconnect', 'dns-prefetch'):
+            return  # bare origins are connection hints, not links to check
         for k in ('href', 'src', 'poster'):
             if a.get(k): self.found.append((tag, k, a[k]))
         if tag == 'meta' and a.get('content', '').startswith('http') and (a.get('property') or a.get('name') or '').lower() in ('og:image', 'twitter:image'):
             self.found.append((tag, 'content', a['content']))
-        if tag == 'link' and a.get('href'):
-            pass
 
 
 def page_urls():

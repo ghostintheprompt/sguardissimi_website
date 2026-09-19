@@ -5,7 +5,7 @@ date: '2025-07-10'
 categories:
   - high-fashion-and-culture
 excerpt: >-
-  New York è una città di vagabondi. Deserto e labirinto. Territorio tribale da sempre. Rebecca in Jacquemus vicino a Washington Square. Abito off-shoulder con uno scollo impossibile che apre vuoti come una scultura. Il surrealismo della Provenza incontra un neon speedball elettrico, dove il resto della vita sembra una sola notte.
+  New York è una città di vagabondi. Deserto e labirinto. Territorio tribale da sempre. Rebecca in Jacquemus sul L.E.S. Abito off-shoulder con uno scollo impossibile che apre vuoti come una scultura. Il surrealismo della Provenza incontra un neon speedball elettrico, dove il resto della vita sembra una sola notte.
 author: Michael d Subrizi
 cover: /img/posters/rebecca-in-jacquemus-2025-07-10.jpg
 photographer: Michael d Subrizi
@@ -23,7 +23,7 @@ New York è una città da attraversare. Deserto. Labirinto. Casa mia da quando s
 
 Ricerca eterna. O la capisci o te ne vai.
 
-Rebecca indossa Jacquemus vicino a Washington Square. Abito off-shoulder da Le Coup de Soleil. Uno scollo impossibile che crea spazio negativo come una scultura.
+Rebecca indossa Jacquemus sul L.E.S. Abito off-shoulder da Le Coup de Soleil. Uno scollo impossibile che crea spazio negativo come una scultura.
 
 Simon Porte Jacquemus ha portato la Provenza a Parigi a diciott'anni. Rebecca porta la sua visione nella città dei vagabondi.
 
@@ -57,7 +57,7 @@ Julia Roberts. Emily Ratajkowski. Vittoria Ceretti. Portano Jacquemus perché ri
 
 ## La ricerca
 
-Rebecca incarna tutto questo a Washington Square.
+Rebecca incarna tutto questo sul L.E.S.
 
 Simon crea una relazione tra corpo, spazio e sicurezza. I suoi pezzi coreografano invece di limitarsi a vestire. Il movimento di Rebecca nella città dei vagabondi diventa più intenzionale. La sua silhouette entra in dialogo con la geometria urbana.
 

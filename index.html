@@ -80,6 +80,9 @@ button,summary{cursor:pointer}
 #sg-zine .sg-graffiti{display:block;margin:10px 4px 0 auto;max-width:34ch;text-align:right;transform:rotate(-2.5deg);transform-origin:right center;font-family:'Marker Felt','Bradley Hand','Segoe Print','Comic Sans MS',cursive;font-size:15px;line-height:1.25;color:var(--pop);opacity:.66;mix-blend-mode:multiply;text-decoration:underline wavy;text-decoration-thickness:1px;text-underline-offset:3px;user-select:none}
 #sg-zine footer .sg-graffiti{margin:0;max-width:none;text-align:center;transform:rotate(1.5deg);transform-origin:center;font-size:13px;opacity:.55;align-self:center}
 #sg-zine .sg-graffiti--lead{margin:-6px 0 14px 4px;max-width:52ch;text-align:left;transform:rotate(-1.2deg);transform-origin:left center;font-size:17px;opacity:.7}
+#sg-zine .fig.hero{display:flex;flex-direction:column}
+#sg-zine .sg-graffiti--mid{margin:auto 0 0;padding-top:18px;max-width:none;text-align:left;font-size:21px;opacity:.74;transform:rotate(-4deg);transform-origin:left center}
+#sg-zine .sg-graffiti--faint{margin:8px 6px 4px auto;max-width:none;font-size:11px;letter-spacing:.08em;text-decoration:none;opacity:.3;transform:rotate(-1deg)}
 #sg-zine .sg-edition{display:grid;grid-template-columns:1.1fr 1fr;gap:12px 25px;padding:22px 0 26px;border-bottom:1px solid var(--ink)}
 #sg-zine .sg-edition .sg-kicker{grid-column:1/-1;margin:0}
 #sg-zine .sg-edition blockquote{margin:0;font-family:Georgia,serif;font-style:italic;font-weight:400;font-size:clamp(26px,3.6cqw,42px);line-height:1.15;letter-spacing:-.03em;color:var(--pop)}
@@ -93,6 +96,7 @@ button,summary{cursor:pointer}
 #sg-zine .section-heading{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:16px}
 #sg-zine .section-heading h2{font-size:clamp(28px,4vw,45px)}
 #sg-zine .section-heading span{font-size:12px}
+#sg-zine .sg-filmnote{margin:-4px 0 16px;max-width:60ch;font-family:Georgia,serif;font-style:italic;font-size:16px;line-height:1.4;color:var(--pop)}
 #sg-zine .films{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 18px}
 #sg-zine video{display:block;width:100%;aspect-ratio:16/9;background:#171014;object-fit:contain}
 #sg-zine .films figcaption{flex-wrap:wrap}
@@ -170,7 +174,7 @@ button,summary{cursor:pointer}
 </section>
 <div class="sg-banner"><strong>La moda. Le persone.</strong><span>Fotografie, film, incontri.</span></div>
 <section class="sg-lower"><figure id="sg-film"><video aria-label="Soon Min in Badgley Mischka" controls preload="none" playsinline poster="/img/posters/badgley-mischka-street-story-2025-07-10.jpg" src="https://video.sguardissimi.com/bagdley.mp4"></video><figcaption><span>Film / Badgley Mischka</span><span>New York</span></figcaption><h3><a href="/articles/badgley-mischka-street-story-2025-07-10">Quinta Strada, senza permesso. ↗</a></h3></figure><div class="sg-notes"><div class="sg-note"><div class="sg-kicker">Il prossimo capitolo</div><h3>Ci vediamo a Parigi.</h3><p>Sguardissimi continua. Nuove fotografie e nuovi incontri, dalla prossima fashion week.</p></div><div class="sg-note" id="sg-archivio"><div class="sg-kicker">L'archivio</div><h3>Un nome nuovo.<br>Lo stesso sguardo.</h3><p>Una selezione dall’archivio di Michael d Subrizi. Sfilate, backstage, bellezza e film.</p><p>Il riser mi ha insegnato i brand, i dettagli. Oggi soprattutto first look e backstage, accanto a chi quel mestiere lo ha reso arte: i migliori al mondo, e per fortuna anche amici.</p></div></div></section>
-<section id="film" class="more-section" aria-labelledby="film-title"><div class="section-heading"><h2 id="film-title">In movimento.</h2><span>Film · New York</span></div><div class="films">
+<section id="film" class="more-section" aria-labelledby="film-title"><div class="section-heading"><h2 id="film-title">In movimento.</h2><span>Film · New York</span></div><p class="sg-filmnote" lang="fr">Les vidéos sont meilleures si vous les lancez toutes en même temps. Ce n’est pas bizarre, promis.</p><div class="films">
       <figure>
         <video aria-label="Michi in Khaite" controls preload="none" playsinline poster="/video_previews/michi-in-khaite-jeans-2025-06-12-preview.jpg" src="https://video.sguardissimi.com/khaite_jeans.mp4"></video>
         <figcaption class="mono"><b>Michi in Khaite</b><span>New York</span></figcaption>
@@ -194,10 +198,11 @@ button,summary{cursor:pointer}
       </figure>
     </div>
   </section>
-<section id="archivio" class="more-section" aria-labelledby="archive-title"><div class="section-heading"><h2 id="archive-title">L'archivio. Sempre qui.</h2><span>L’archivio</span></div><p class="archive-intro">Storie, incontri e sfilate. Le fotografie e i film di Michael d Subrizi.</p><div id="arch" aria-live="polite"></div><button id="archive-more" type="button" hidden>Mostra tutto l’archivio</button><p id="archive-status" role="status"></p><details class="gallery-archive" open><summary>Le gallerie di sfilate</summary><div class="work-a">
+<section id="archivio" class="more-section" aria-labelledby="archive-title"><div class="section-heading"><h2 id="archive-title">L'archivio. Sempre qui.</h2><span>L’archivio</span></div><p class="archive-intro">Storie, incontri e sfilate. Le fotografie e i film di Michael d Subrizi.</p><div id="arch" aria-live="polite"></div><button id="archive-more" type="button" hidden>Mostra tutto l’archivio</button><p id="archive-status" role="status"></p><span class="sg-graffiti sg-graffiti--faint" lang="en" aria-hidden="true">LES BROOKLYN QUEENS CONNECT NYC IN THE MOTHERFUCKING HOUSE</span><details class="gallery-archive" open><summary>Le gallerie di sfilate</summary><div class="work-a">
     <figure class="fig hero" data-col="Elie_Saab_Paris_Autumn_Winter_2019" data-n="75">
       <div class="fig-img"><img loading="lazy" src="https://photos.sguardissimi.com/Elie_Saab_Paris_Autumn_Winter_2019/Elie_Saab_Paris_Autumn_Winter_2019_73.jpg" alt="Elie Saab, Parigi, AW19"></div>
       <figcaption class="mono"><a href="/articles/elie-saab-paris-autumn-winter-2019-2025-06-14"><b>Elie Saab</b></a><span>Parigi · AW19</span></figcaption>
+      <span class="sg-graffiti sg-graffiti--mid" lang="en" aria-hidden="true">one love to KAVINSKY!</span>
     </figure>
     <div class="satellites">
       <figure class="fig" data-col="Thom_Browne_Paris_Autumn_Winter_2019" data-n="81">
@@ -212,9 +217,9 @@ button,summary{cursor:pointer}
         <div class="fig-img"><img loading="lazy" src="https://photos.sguardissimi.com/Moschino_Milan_Spring_Summer_2019/Moschino_Milan_Spring_Summer_2019_71.jpg" alt="Moschino, Milano, SS19"></div>
         <figcaption class="mono"><a href="/articles/moschino-milan-spring-summer-2019-2025-06-17"><b>Moschino</b></a><span>Milano · SS19</span></figcaption>
       </figure>
-      <figure class="fig" data-col="Sportmax_Milan_Autumn_Winter_2019" data-n="120">
-        <div class="fig-img"><img loading="lazy" src="https://photos.sguardissimi.com/Sportmax_Milan_Autumn_Winter_2019/Sportmax_Milan_Autumn_Winter_2019_118.jpg" alt="Sportmax, Milano, AW19"></div>
-        <figcaption class="mono"><a href="/articles/sportmax-milan-autumn-winter-2019-2025-06-27"><b>Sportmax</b></a><span>Milano · AW19</span></figcaption>
+      <figure class="fig" data-col="Philipp_Plein_Milan_Spring_Summer_2019" data-n="48">
+        <div class="fig-img"><img loading="lazy" src="https://photos.sguardissimi.com/Philipp_Plein_Milan_Spring_Summer_2019/Philipp_Plein_Milan_Spring_Summer_2019_1.jpg" alt="Philipp Plein, Milano, SS19"></div>
+        <figcaption class="mono"><a href="/articles/philipp-plein-milan-spring-summer-2019-2025-06-23"><b>Philipp Plein</b></a><span>Milano · SS19</span></figcaption>
       </figure>
     </div>
   </div>

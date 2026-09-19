@@ -105,7 +105,7 @@ Collaborazione con Reebok. Sneakers DMX Fusion Pyer Moss. Elementi western che i
 
 Maglie lavorate a mano da Aisling Camps. Corpose. Oversize. Spezzano i pezzi western più affilati. Tradizione irlandese della maglieria che incontra una narrazione nera americana. Qualcosa che nessuna delle due cose avrebbe potuto creare da sola.
 
-## Perché ha funzionato
+## Il coro
 
 Un coro gospel che canta Kendrick. Il peso storico della narrazione cowboy. Saadiq capisce come amplificare senza coprire. Il coro trasforma lo spazio in qualcosa a metà tra sfilata e funzione religiosa.
 

@@ -15,6 +15,9 @@ const DESIGNER_LINKS_PATH = path.join(__dirname, '../designer-links.json');
 // through as "/img/..." and no scraper can resolve a root-relative path.
 function absUrl(u) {
   if (!u) return '';
+  // An inline data: placeholder cover can't be a share-preview image (scrapers need a
+  // fetchable URL); fall back to the site card instead of emitting a broken og:image.
+  if (/^data:/i.test(u)) return 'https://sguardissimi.com/img/og-card.jpg';
   if (/^https?:\/\//i.test(u)) return u;
   return 'https://sguardissimi.com' + (u.startsWith('/') ? u : '/' + u);
 }

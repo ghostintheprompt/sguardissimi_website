@@ -6,7 +6,7 @@ categories:
   - high-fashion-and-culture
   - global-chaos-and-innovation
 excerpt: >-
-  Quando arrivi a questi livelli non hai bisogno di annunciarlo. Joan Smalls comanda la stanza. Carine lo sa. Fotografare da un riser terribile e tornare comunque a casa con gli scatti giusti: è tutta qui la storia di come si fotografa la grandezza.
+  Elie Saab costruisce la stanza, Joan Smalls la comanda. Da un riser terribile ho preso la sfilata. La maison sta dietro il muro.
 author: Michael d Subrizi
 photographer: Michael d Subrizi
 word_count: 402
@@ -254,44 +254,46 @@ gallery:
 
 Quando arrivi a questo livello non hai bisogno di annunciarlo. Elie Saab costruisce la stanza, sistema il ricamo, perfeziona la caduta di ogni drago e poi lascia che Joan Smalls cammini.
 
-Venue parigino bellissimo e tremendo insieme. Riser orribile, angolo sbagliato, un altro fotografo continua a sbattere contro la mia lente. Pareti settecentesche magnifiche, condizioni di scatto quasi impossibili. Questa è Parigi.
-
-Guarda Joan dominare lo spazio. Quando passa la grandezza, lo scatto arriva sempre.
+Parigi. Pareti settecentesche magnifiche, un riser orribile, un altro fotografo che mi sbatte contro la lente. Condizioni quasi impossibili. Quando passa la grandezza, lo scatto arriva lo stesso.
 
 [GALLERY:0]
 
 ## Carine Roitfeld
 
-Sistema i guanti, sposta un gioiello di due millimetri verso sinistra. La tensione fra lusso e spigolo che l'ha resa intoccabile a Vogue Paris è già dentro ogni scelta di styling. Le modelle non indossano abiti da sera. Indossano potere, per caso ricamato in seta.
+Sistema i guanti, sposta un gioiello di due millimetri a sinistra. La tensione fra lusso e spigolo che l'ha resa intoccabile a Vogue Paris è già in ogni scelta. Le modelle non indossano abiti da sera. Indossano potere, ricamato in seta per caso.
 
-## I Draghi Ricamati
+## I draghi
 
-Draghi ricamati che precipitano lungo gli strascichi. Provi a catturarli nel pieno della caduta. La luce cupa e romantica fa sembrare il filo d'oro in movimento anche quando la modella è immobile. Scatti oltre la spalla di qualcuno ma il drago prende luce. Preso.
+Ricamati lungo gli strascichi, in caduta libera. La luce cupa e romantica fa muovere il filo d'oro anche quando la modella è ferma. Scatti oltre la spalla di qualcuno, ma il drago prende luce. Preso.
 
-Influenze dell'Asia orientale, artigianato libanese. Colletti da qipao. Peonie in oro. Abiti a colonna che si muovono come liquido.
+Influenze dell'Asia orientale, artigianato libanese. Colletti da qipao, peonie d'oro, abiti a colonna che si muovono come liquido.
 
-## Joan Smalls
+## Joan
 
-Joan esce e la temperatura della stanza cambia. Non interpreta il comando, ce l'ha già addosso. Lo strascico la segue come se fosse stato addestrato apposta per il suo passo.
+Joan esce e la temperatura della stanza cambia. Non interpreta il comando: ce l'ha già addosso. Lo strascico la segue come se l'avessero addestrato sul suo passo.
 
-Nuri Son, Cindy Bruna, Isabeli Fontana, Daria Strokous, Candice Swanepoel: il casting è una dichiarazione che non ha bisogno di dirsi da sola.
+Nuri Son, Cindy Bruna, Isabeli Fontana, Daria Strokous, Candice Swanepoel. Un casting che non deve spiegarsi.
 
-## La Costruzione
+## La costruzione
 
-Maniche gonfie, drammatiche e funzionali insieme. Jumpsuit di seta che danno presenza senza diventare maschili. Tasche posizionate con precisione matematica. I dettagli li noti quando stringi l'inquadratura e il ricamo ti riempie il frame.
+Maniche gonfie, drammatiche e funzionali insieme. Jumpsuit di seta che danno presenza senza diventare maschili. Tasche posizionate con precisione matematica. Nero di mezzanotte apre la sfilata, poi crema e oro che prendono la luce ombrosa e ti ripagano quando l'esposizione è giusta.
 
-Nero di mezzanotte apre la sfilata: Joan che prende il controllo dello spazio in seta strutturata. Poi crema e oro, che catturano quella luce ombrosa e ti ripagano quando prendi l'esposizione giusta.
+## L'atelier
 
-## L'Atelier
+Beirut. Ricami che molte maison occidentali non toccano nemmeno, tecniche passate di mano in mano, mani che sanno cose che le macchine non impareranno.
 
-L'atelier di Saab a Beirut mantiene standard di ricamo che molte maison occidentali non toccano nemmeno. Tecniche passate di generazione in generazione, mani che sanno cose che le macchine non impareranno mai.
+Le vedo arrivare in passerella già finite. Non le vedo mai finire.
 
-## Parigi
+## Da dietro
 
-Candice Swanepoel chiude in seta nera di mezzanotte, ricamo dorato che scende da una spalla. Le condizioni non contano più. Scatti e basta.
+Questo è il tipo di show. Così te pijan’a lavorà andove se guadagna tanto.
 
-Da quel riser terribile, il tempismo puro ti consegna lo scatto: il suo viso, la caduta del tessuto, una sicurezza che non ha bisogno di annunciarsi.
+Candice chiude in seta nera di mezzanotte, ricamo dorato che scende da una spalla. Da quel riser ho avuto il suo viso e la caduta del tessuto. Bastava per lavorare.
 
-Se catturi questo, lavori.
+Non bastava per vedere la maison. Le mani sul filo d'oro prima che il drago cada. Joan un minuto prima di Joan.
+
+Dal riser prendo la sfilata. Da dietro prendo la maison.
+
+Fatemi entrare.
 
 Paris. March 5, 2019.
