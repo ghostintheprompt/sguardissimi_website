@@ -411,33 +411,23 @@ class ArticleBuildSystem {
     }
     if (!meta.video && (!meta.videos || meta.videos.length === 0)) return content;
     
-    // Support multiple video field formats:
-    // 1. video: "url-string"
-    // 2. video: [{ title, url }]
-    // 3. videos: [{ url }]
-    let videoUrl;
-    if (meta.video) {
-      if (typeof meta.video === 'string') {
-        videoUrl = meta.video;
-      } else if (Array.isArray(meta.video) && meta.video[0]) {
-        videoUrl = meta.video[0].url;
-      }
-    } else if (meta.videos && meta.videos[0]) {
-      videoUrl = meta.videos[0].url;
-    }
-    
-    if (!videoUrl) return content;
-
-    // Same source used for og:image/twitter:image, so the video's poster
-    // frame matches the cover photo already chosen for the article.
-    const posterUrl = absUrl(meta.cover || (meta.hero_shots && meta.hero_shots[0] ? meta.hero_shots[0].url : ''));
-    const posterAttr = posterUrl ? ` poster="${posterUrl}"` : '';
-
-    // Replace [VIDEO] or [VIDEO:n] tags where n is any number
-    return content.replace(/<p>\[VIDEO(?::\d+)?\]<\/p>|\[VIDEO(?::\d+)?\]/g, () => {
+    const rawVideos = meta.video || meta.videos;
+    const videos = (Array.isArray(rawVideos) ? rawVideos : [rawVideos])
+      .map(v => typeof v === 'string' ? { url: v } : v);
+    const escape = value => String(value || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+    return content.replace(/(?:<p>)?\[VIDEO(?::(\d+))?\](?:<\/p>)?/g, (marker, number) => {
+      const index = number ? Number(number) - 1 : 0;
+      const video = videos[index];
+      if (!video || !video.url) return marker;
+      const previewSuffix = video.url.includes('simkhai_cruise') ? '-cruise-preview' : '-preview';
+      const candidates = [video.poster, `/video_previews/${meta.slug}${previewSuffix}.jpg`,
+        `/img/posters/${meta.slug}.jpg`, meta.cover];
+      const poster = candidates.find(url => url && url.startsWith('/') &&
+        fs.existsSync(path.join(__dirname, '..', url))) || video.poster || meta.cover || '/img/og-card.jpg';
       return `<div class="video-wrapper">
-  <video class="video-frame" controls preload="metadata"${posterAttr}>
-    <source src="${videoUrl}" type="video/mp4">
+  <video class="video-frame" controls playsinline preload="none" width="1600" height="900"
+    aria-label="${escape(video.title || meta.title)}" poster="${escape(poster)}">
+    <source src="${escape(video.url)}" type="video/mp4">
     Il tuo browser non supporta il tag video.
   </video>
 </div>`;
@@ -589,6 +579,7 @@ class ArticleBuildSystem {
     ${designerLinks}
     ${gallerySection}
     
+    <!-- SG_READING_ONWARD -->
     <!-- Share Section -->
     <div class="article-share">
       <h3>Copia questo link</h3>
@@ -991,6 +982,27 @@ class ArticleBuildSystem {
     }
   }
 
+  addReadingNavigation() {
+    const escape = value => String(value || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+    for (const article of this.metadata) {
+      const keywords = value => new Set((value.title + ' ' + (value.excerpt || '')).toLowerCase().match(/parigi|paris|new york|milano|backstage|beauty|bellezza|bridal/g) || []);
+      const subject = keywords(article);
+      const ranked = this.metadata.filter(other => other.slug !== article.slug).map(other => {
+        const sameDesigner = Boolean(article.designer && article.designer === other.designer);
+        const sameFormat = Boolean(article.hasVideo === other.hasVideo && article.hasGallery === other.hasGallery);
+        const overlap = [...keywords(other)].filter(word => subject.has(word)).length;
+        return { other, score: (sameDesigner ? 20 : 0) + overlap * 3 + (sameFormat ? 4 : 0) };
+      }).sort((a, b) => b.score - a.score || new Date(b.other.date) - new Date(a.other.date) || a.other.slug.localeCompare(b.other.slug));
+      const next = ranked[0]?.other;
+      const nav = `<nav class="reading-onward" aria-label="Continua a leggere">
+        ${next ? `<a class="reading-next" href="/articles/${encodeURIComponent(next.slug)}/"><span class="reading-label">${article.hasVideo && next.hasVideo ? 'Un altro film' : 'Continua a leggere'} ↗</span><span class="reading-title">${escape(next.title)}</span></a>` : ''}
+        <a class="reading-archive" href="/#archivio">← Torna all’archivio</a>
+      </nav>`;
+      const file = path.join(DIST_DIR, article.slug, 'index.html');
+      fs.writeFileSync(file, fs.readFileSync(file, 'utf8').replace('<!-- SG_READING_ONWARD -->', nav));
+    }
+  }
+
   writeMetadata() {
     fs.writeFileSync(METADATA_PATH, JSON.stringify(this.metadata, null, 2), 'utf8');
   }
@@ -1085,6 +1097,7 @@ ${urls.map(url => `  <url>
     
     try {
       this.processArticles();
+      this.addReadingNavigation();
       this.writeMetadata();
       this.generateSitemap();
       

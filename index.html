@@ -163,6 +163,25 @@ button,summary{cursor:pointer}
 
 
 
+
+/* Stable frames and generous tap targets; type size and editorial rhythm stay intact. */
+#sg-zine video { height: auto; aspect-ratio: 16 / 9; object-fit: contain; }
+#sg-zine .sg-lead video, #sg-zine .sg-side video, #sg-zine .sg-lower video { aspect-ratio:16 / 9; }
+#sg-zine .fig-img { aspect-ratio:2 / 3; }
+#sg-zine .fig-img img { width:100%; height:100%; object-fit:contain; }
+@media (pointer:coarse), (max-width:600px) {
+  #sg-zine .sg-nav a, #sg-zine figcaption a, #sg-zine .sg-storylink,
+  #sg-zine .gallery-open, #sg-zine summary, #sg-zine footer a,
+  .lb-nav button, .lb-x { min-height:44px; display:inline-flex; align-items:center; box-sizing:border-box; }
+  #sg-zine .sg-nav a { padding:10px 7px; }
+  #sg-zine .sg-nav div { gap:12px; }
+  #sg-zine figcaption { align-items:center; flex-wrap:wrap; gap:4px 12px; }
+  #sg-zine figcaption a { padding:8px 0; }
+  #sg-zine .gallery-open { padding:10px 14px; }
+  #sg-zine .sg-storylink { padding:10px 0; }
+  .lb-nav button, .lb-x { min-width:44px; justify-content:center; }
+}
+#sg-zine .sg-graffiti--paris{margin:18px 0 8px;text-align:left;transform:rotate(-4deg);transform-origin:left center;font-size:22px;opacity:.8}
 </style></head><body><main id="sg-zine" aria-label="Sguardissimi">
 <div class="sg-rail"><span>The Fashion Mag of Michael <span class="dlow">d</span> Subrizi</span><span>New York · Parigi · In italiano</span></div>
 <h1 class="sg-logo">SGUARDISSIMI</h1>
@@ -174,11 +193,11 @@ button,summary{cursor:pointer}
 <div class="sg-edition-body"><p>Sguardissimi existe totalement en dehors du quadrillage commercial de la presse traditionnelle. Conçu comme un objet éditorial ultra-premium et à tirage limité, notre support est un manifeste brut dédié à l’architecture visuelle, à l’ingénierie technique et à la pureté du geste créatif.</p><p>Portés par notre héritage de productions d’élite pour les défilés internationaux, nous offrons aux maisons les plus secrètes un canevas totalement affranchi de toute censure. Aucun bruit médiatique. Aucun impératif corporate. Juste l’art pur.</p></div>
 </section>
 <section class="sg-opening" id="sg-storie">
-<figure class="sg-lead"><video aria-label="One Night in Bangkok" controls preload="none" playsinline poster="https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg" src="https://video.sguardissimi.com/one-night-in-bangkok-ss27.mp4"></video><figcaption><a href="/articles/one-night-in-bangkok-ss27-2026-09-16">One Night in Bangkok ↗</a><span>New York · NYFW SS27</span></figcaption></figure>
-<div class="sg-side"><div><div class="sg-kicker">L’ultima storia</div><h2>La banca<br>si <em>ricorda.</em></h2><p class="sg-deck">Capitale, l’ex<br>Bowery Savings Bank.<br>Vent’anni fa, un altro mondo.<br>Ora, una sfilata thailandese<br>curata da un ministero.</p><a class="sg-storylink" href="/articles/one-night-in-bangkok-ss27-2026-09-16">Leggi la storia intera ↗</a></div><figure><img loading="lazy" src="/video_previews/michi-in-khaite-jeans-2025-06-12-preview.jpg" alt="Michi in jeans Khaite nei cinque borough di New York"><figcaption><a href="/articles/michi-in-khaite-jeans-2025-06-12">Michi in Khaite ↗</a><span>New York</span></figcaption></figure></div>
+<figure class="sg-lead"><video aria-label="One Night in Bangkok" controls preload="none" playsinline poster="/img/posters/one-night-in-bangkok-ss27-2026-09-16.jpg" src="https://video.sguardissimi.com/one-night-in-bangkok-ss27.mp4"></video><figcaption><a href="/articles/one-night-in-bangkok-ss27-2026-09-16">One Night in Bangkok ↗</a><span>New York · NYFW SS27</span></figcaption></figure>
+<div class="sg-side"><div><div class="sg-kicker">L’ultima storia</div><h2>La banca<br>si <em>ricorda.</em></h2><p class="sg-deck">Capitale, l’ex<br>Bowery Savings Bank.<br>Vent’anni fa, un altro mondo.<br>Ora, una sfilata thailandese<br>curata da un ministero.</p><a class="sg-storylink" href="/articles/one-night-in-bangkok-ss27-2026-09-16">Leggi la storia intera ↗</a></div><figure><img loading="lazy" src="/video_previews/michi-in-khaite-jeans-2025-06-12-preview.jpg" alt="Michi in jeans Khaite nei cinque borough di New York" width="2048" height="1152"><figcaption><a href="/articles/michi-in-khaite-jeans-2025-06-12">Michi in Khaite ↗</a><span>New York</span></figcaption></figure></div>
 </section>
 <div class="sg-banner"><strong>La moda. Le persone.</strong><span>Fotografie, film, incontri.</span></div>
-<section class="sg-lower"><figure id="sg-film"><video aria-label="Soon Min in Badgley Mischka" controls preload="none" playsinline poster="/img/posters/badgley-mischka-street-story-2025-07-10.jpg" src="https://video.sguardissimi.com/bagdley.mp4"></video><figcaption><span>Film / Badgley Mischka</span><span>New York</span></figcaption><h3><a href="/articles/badgley-mischka-street-story-2025-07-10">Fifth Avenue, senza permesso. ↗</a></h3></figure><div class="sg-notes"><div class="sg-note sg-pfw" id="sg-pfw" aria-label="Conto alla rovescia per la Paris Fashion Week"><div class="sg-kicker">Ci vediamo a Parigi</div><div class="sg-pfw-n" id="pfw-n">PFW</div><div class="sg-pfw-l" id="pfw-l">Paris Fashion Week</div><p class="sg-pfw-j" id="pfw-j"></p></div><div class="sg-note" id="sg-archivio"><div class="sg-kicker">L'archivio</div><h3>Un nome nuovo.<br>Lo stesso sguardo.</h3><p>Una selezione dall’archivio di Michael d Subrizi. Sfilate, backstage, bellezza e film.</p><p>Il riser mi ha insegnato i brand, i dettagli. Oggi soprattutto first look e backstage, accanto a chi quel mestiere lo ha reso arte: i migliori al mondo, e per fortuna anche amici.</p></div></div></section>
+<section class="sg-lower"><figure id="sg-film"><video aria-label="Soon Min in Badgley Mischka" controls preload="none" playsinline poster="/img/posters/badgley-mischka-street-story-2025-07-10.jpg" src="https://video.sguardissimi.com/bagdley.mp4"></video><figcaption><span>Film / Badgley Mischka</span><span>New York</span></figcaption><h3><a href="/articles/badgley-mischka-street-story-2025-07-10">Fifth Avenue, senza permesso. ↗</a></h3></figure><div class="sg-notes"><div class="sg-note sg-pfw" id="sg-pfw" aria-label="Conto alla rovescia per la Paris Fashion Week"><div class="sg-kicker">Ci vediamo a Parigi</div><div class="sg-pfw-n" id="pfw-n">PFW</div><div class="sg-pfw-l" id="pfw-l">Paris Fashion Week</div><p class="sg-pfw-j" id="pfw-j"></p><span class="sg-graffiti sg-graffiti--paris" lang="it">Veni, Vedi, Vici</span></div><div class="sg-note" id="sg-archivio"><div class="sg-kicker">L'archivio</div><h3>Un nome nuovo.<br>Lo stesso sguardo.</h3><p>Una selezione dall’archivio di Michael d Subrizi. Sfilate, backstage, bellezza e film.</p><p>Il riser mi ha insegnato i brand, i dettagli. Oggi soprattutto first look e backstage, accanto a chi quel mestiere lo ha reso arte: i migliori al mondo, e per fortuna anche amici.</p></div></div></section>
 <section id="film" class="more-section" aria-labelledby="film-title"><div class="section-heading"><h2 id="film-title">In movimento.</h2><span>Film · New York</span></div><p class="sg-filmnote" lang="fr">Les vidéos sont meilleures si vous les lancez toutes en même temps. Ce n’est pas bizarre, promis.</p><div class="films">
       <figure>
         <video aria-label="Michi in Khaite" controls preload="none" playsinline poster="/video_previews/michi-in-khaite-jeans-2025-06-12-preview.jpg" src="https://video.sguardissimi.com/khaite_jeans.mp4"></video>
@@ -198,7 +217,7 @@ button,summary{cursor:pointer}
         <span class="sg-graffiti" lang="fr" aria-hidden="true">Je serai encore là bien après que tu aies arrêté.</span>
       </figure>
       <figure>
-        <video aria-label="One Night in Bangkok" controls preload="none" playsinline poster="https://photos.sguardissimi.com/Bangkok_NYFW_Spring_Summer_2027/Bangkok_NYFW_Spring_Summer_2027_1.jpg" src="https://video.sguardissimi.com/one-night-in-bangkok-ss27.mp4"></video>
+        <video aria-label="One Night in Bangkok" controls preload="none" playsinline poster="/img/posters/one-night-in-bangkok-ss27-2026-09-16.jpg" src="https://video.sguardissimi.com/one-night-in-bangkok-ss27.mp4"></video>
         <figcaption class="mono"><b>One Night in Bangkok</b><span>NYFW SS27 · New York</span></figcaption>
       </figure>
     </div>

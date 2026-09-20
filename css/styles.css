@@ -1201,3 +1201,22 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--sg-red); outlin
 
 /* The name is written with a lowercase d; keep it lowercase inside all-caps rails. */
 .dlow { text-transform: lowercase; }
+
+/* Reserve media space before network responses, preserving the full frame. */
+.video-frame { aspect-ratio:16 / 9; height:auto; object-fit:contain; }
+.gallery-image { aspect-ratio:2 / 3; }
+.gallery-image img { width:100%; height:100%; object-fit:contain; }
+.article-hero-image { aspect-ratio:16 / 9; }
+.article-hero-image img { width:100%; height:100%; object-fit:contain; }
+.reading-onward { max-width:790px; margin:32px auto; padding:24px; box-sizing:border-box; border-top:1px solid var(--sg-red); }
+.reading-next { display:block; color:var(--sg-red); text-decoration:none; padding:12px 0 20px; }
+.reading-label { display:block; font-family:var(--sg-sans); font-size:12px; letter-spacing:.04em; margin-bottom:12px; }
+.reading-title { display:block; font-family:var(--sg-display); font-weight:800; font-size:clamp(25px,3vw,36px); line-height:1.15; letter-spacing:-.025em; text-wrap:balance; }
+.reading-next:hover .reading-title { text-decoration:underline; text-underline-offset:5px; }
+.reading-archive { display:inline-flex; align-items:center; min-height:44px; color:var(--sg-ink); font-family:var(--sg-sans); font-size:14px; text-underline-offset:4px; }
+@media (pointer:coarse), (max-width:600px) {
+  .back-home, .share-btn, .designer-link { min-height:44px; display:inline-flex; align-items:center; box-sizing:border-box; }
+  .lightbox-close, .lightbox-fullscreen, .lightbox-nav { min-width:44px; min-height:44px; }
+  .gallery-caption a, .video-caption a { display:inline-flex; align-items:center; min-height:44px; }
+  .reading-onward { padding:20px; }
+}

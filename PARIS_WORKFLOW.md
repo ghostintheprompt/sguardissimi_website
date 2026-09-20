@@ -63,3 +63,7 @@ articles, so publish here first, then update Agency Forza (see `../agency_forza/
 ## Downtime
 
 Polish old pieces from `POLISH_QUEUE.md`. It is a short, ranked list with what to look for. Most of the archive is good and stays as is.
+
+## Also in Paris
+
+Turn on Cloudflare Web Analytics for both sites to see the reaction. Steps and the Agency Forza CSP snag are in `../agency_forza/PARIS.md`, "To do in Paris".
