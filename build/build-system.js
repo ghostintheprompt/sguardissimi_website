@@ -416,7 +416,7 @@ class ArticleBuildSystem {
       .map(v => typeof v === 'string' ? { url: v } : v);
     const escape = value => String(value || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
     return content.replace(/(?:<p>)?\[VIDEO(?::(\d+))?\](?:<\/p>)?/g, (marker, number) => {
-      const index = number ? Number(number) - 1 : 0;
+      const index = number ? Math.max(0, Number(number) - 1) : 0;
       const video = videos[index];
       if (!video || !video.url) return marker;
       const previewSuffix = video.url.includes('simkhai_cruise') ? '-cruise-preview' : '-preview';
