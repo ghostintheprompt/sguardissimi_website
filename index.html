@@ -182,15 +182,28 @@ button,summary{cursor:pointer}
   .lb-nav button, .lb-x { min-width:44px; justify-content:center; }
 }
 #sg-zine .sg-graffiti--paris{margin:18px 0 8px;text-align:left;transform:rotate(-4deg);transform-origin:left center;font-size:22px;opacity:.8}
+
+/* An invitation before the work; publication context stays available on demand. */
+#sg-zine .sg-welcome{display:grid;grid-template-columns:1fr 2fr;align-items:center;gap:16px 28px;padding:18px 0;border-bottom:1px solid var(--ink)}
+#sg-zine .sg-welcome-note{font-family:Georgia,serif;font-style:italic;font-size:clamp(25px,3.2cqw,39px);line-height:1.15;color:var(--pop);transform:rotate(-2deg)}
+#sg-zine .sg-welcome p:not(.sg-welcome-note){max-width:66ch;font-size:14px;line-height:1.6}
+#sg-zine .sg-welcome .sg-storylink{margin-top:4px;min-height:44px;display:inline-flex;align-items:center}
+#sg-zine .sg-project-body{display:grid;grid-template-columns:1fr 1.5fr;gap:20px 36px}
+#sg-zine .sg-project-body p{max-width:56ch;font-size:15px;line-height:1.7}
+#sg-zine .sg-project-body p+p{margin-top:12px}
+#sg-zine .sg-project-body .sg-kicker{font-size:11px;margin-bottom:8px}
+#sg-zine .sg-manifesto{margin-top:22px;border-top:1px solid var(--ink)}
+#sg-zine .sg-manifesto summary{min-height:44px;width:fit-content}
+#sg-zine .sg-manifesto .sg-edition{border:0;padding:12px 0}
+#sg-zine #sg-storie{scroll-margin-top:20px}
+@container(max-width:550px){#sg-zine .sg-welcome,#sg-zine .sg-project-body{grid-template-columns:1fr;gap:12px}#sg-zine .sg-welcome{padding:16px 0}#sg-zine .sg-nav div{gap:6px 12px}}
 </style></head><body><main id="sg-zine" aria-label="Sguardissimi">
 <div class="sg-rail"><span>The Fashion Mag of Michael <span class="dlow">d</span> Subrizi</span><span>New York · Parigi · In italiano</span></div>
 <h1 class="sg-logo">SGUARDISSIMI</h1>
-<span class="sg-graffiti sg-graffiti--lead" lang="fr" aria-hidden="true">«&nbsp;Nous échappons complètement aux diktats des grilles publicitaires classiques.&nbsp;»</span>
-<nav class="sg-nav" aria-label="Magazine"><div><a href="#sg-storie">Storie</a><a href="#film">Film</a><a href="#archivio">Archivio</a></div><span>Moda, da dentro la stanza.</span></nav>
-<section class="sg-edition" lang="fr" aria-label="Édition limitée">
-<p class="sg-kicker">Édition limitée • Indépendance absolue</p>
-<blockquote>«&nbsp;Nous échappons complètement aux diktats des grilles publicitaires classiques.&nbsp;»</blockquote>
-<div class="sg-edition-body"><p>Sguardissimi existe totalement en dehors du quadrillage commercial de la presse traditionnelle. Conçu comme un objet éditorial ultra-premium et à tirage limité, notre support est un manifeste brut dédié à l’architecture visuelle, à l’ingénierie technique et à la pureté du geste créatif.</p><p>Portés par notre héritage de productions d’élite pour les défilés internationaux, nous offrons aux maisons les plus secrètes un canevas totalement affranchi de toute censure. Aucun bruit médiatique. Aucun impératif corporate. Juste l’art pur.</p></div>
+<nav class="sg-nav" aria-label="Magazine"><div><a href="#sg-storie">Storie</a><a href="#film">Film</a><a href="#archivio">Archivio</a><a href="#progetto">Il progetto</a></div><span>Moda, da dentro la stanza.</span></nav>
+<section class="sg-welcome" lang="fr" aria-label="Bienvenue chez Sguardissimi">
+<p class="sg-welcome-note">Entrez, regardez.</p>
+<div><p>Un magazine indépendant de Michael d Subrizi. La mode à travers les photographies, les films et les récits — de New York à Paris, en italien.</p><a class="sg-storylink" href="#sg-storie">Découvrir la dernière histoire ↓</a></div>
 </section>
 <section class="sg-opening" id="sg-storie">
 <figure class="sg-lead"><video aria-label="One Night in Bangkok" controls preload="none" playsinline poster="/img/posters/one-night-in-bangkok-ss27-2026-09-16.jpg" src="https://video.sguardissimi.com/one-night-in-bangkok-ss27.mp4"></video><figcaption><a href="/articles/one-night-in-bangkok-ss27-2026-09-16">One Night in Bangkok ↗</a><span>New York · NYFW SS27</span></figcaption></figure>
@@ -247,7 +260,17 @@ button,summary{cursor:pointer}
       </figure>
     </div>
   </div>
-</details></section><footer><span>SGUARDISSIMI © Michael d Subrizi</span><span><a href="https://agencyforza.com">Studio → Agency Forza</a></span></footer>
+</details></section>
+<section id="progetto" class="more-section sg-project" aria-labelledby="project-title">
+<div class="section-heading"><h2 id="project-title">Sguardissimi, da vicino.</h2><span lang="fr">Le magazine</span></div>
+<div class="sg-project-body"><div><p class="sg-kicker">Michael d Subrizi</p><p>Fotografia, film e scrittura.<br>New York · Parigi · In italiano.</p><a class="sg-storylink" href="https://agencyforza.com">Bio, crediti e contatti → Agency Forza</a></div><div lang="fr"><p>Sguardissimi réunit mes photographies, mes films et mes textes sur la mode et les personnes qui la font vivre. Un nouveau nom, un regard qui continue.</p><p>Les archives font partie de cette histoire. Les nouvelles rencontres en écrivent la suite.</p><a class="sg-storylink" lang="it" href="#sg-storie">Torna alle storie ↑</a></div></div>
+<details class="sg-manifesto" lang="fr"><summary>Le manifeste</summary><section class="sg-edition" lang="fr" aria-label="Édition limitée">
+<p class="sg-kicker">Édition limitée • Indépendance absolue</p>
+<blockquote>«&nbsp;Nous échappons complètement aux diktats des grilles publicitaires classiques.&nbsp;»</blockquote>
+<div class="sg-edition-body"><p>Sguardissimi existe totalement en dehors du quadrillage commercial de la presse traditionnelle. Conçu comme un objet éditorial ultra-premium et à tirage limité, notre support est un manifeste brut dédié à l’architecture visuelle, à l’ingénierie technique et à la pureté du geste créatif.</p><p>Portés par notre héritage de productions d’élite pour les défilés internationaux, nous offrons aux maisons les plus secrètes un canevas totalement affranchi de toute censure. Aucun bruit médiatique. Aucun impératif corporate. Juste l’art pur.</p></div>
+</section></details>
+</section>
+<footer><span>SGUARDISSIMI © Michael d Subrizi</span><span><a href="https://agencyforza.com">Studio → Agency Forza</a></span></footer>
 </main>
 <div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Galleria">
   <div class="lb-stage">
