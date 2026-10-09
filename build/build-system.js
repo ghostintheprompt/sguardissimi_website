@@ -1013,7 +1013,8 @@ class ArticleBuildSystem {
         loc: 'https://sguardissimi.com/',
         priority: '1.0',
         changefreq: 'weekly'
-      }
+      },
+      { loc: 'https://sguardissimi.com/lido/', priority: '0.8', changefreq: 'weekly' }
     ];
 
     // Add all article URLs
@@ -1103,6 +1104,7 @@ ${urls.map(url => `  <url>
       
       console.log('📁 Copying static assets...');
       fse.copySync(path.join(__dirname, '../index.html'), path.join(DIST_DIR, '../index.html'));
+      fse.copySync(path.join(__dirname, '../lido'), path.join(DIST_DIR, '../lido'), { filter: src => !src.endsWith('README.md') });
       fse.copySync(path.join(__dirname, '../css'), path.join(DIST_DIR, '../css'));
       if (fs.existsSync(path.join(__dirname, '../img'))) {
         fse.copySync(path.join(__dirname, '../img'), path.join(DIST_DIR, '../img'));
