@@ -8,6 +8,7 @@ Edit `lido/story.json`:
 - `poster`: an actual still image, ideally local `/img/posters/...jpg`.
 - `photographer`: contributor's credited name; `creditLabel`: their exact role (e.g. Fotografie or Film); `photographerUrl`: optional portfolio URL.
 - `credits`: additional credit lines, including the exact film credit if different from photography.
+- `orientation`: set to `portrait` for a vertical (9:16) film; leave out for the default 16:9 player.
 - `paragraphs`: article paragraphs as plain text, in reading order.
 - Set `published` to `true` when ready. A title, photographer, video and poster are required to replace the placeholder.
 

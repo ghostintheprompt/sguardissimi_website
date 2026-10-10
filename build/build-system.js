@@ -8,6 +8,7 @@ const fse = require('fs-extra');
 
 const ARTICLES_DIR = path.join(__dirname, '../articles');
 const METADATA_PATH = path.join(__dirname, '../articles-metadata.json');
+const { buildLido } = require('./lido-build');
 const DIST_DIR = path.join(__dirname, '../dist/articles');
 const DESIGNER_LINKS_PATH = path.join(__dirname, '../designer-links.json');
 
@@ -353,7 +354,8 @@ class ArticleBuildSystem {
       'high-fashion-and-culture': 'alta moda e cultura',
       'global-chaos-and-innovation': 'caos globale e innovazione',
       'resistance-rebellion-and-icons': 'resistenza, ribellione e icone',
-      'technical-insight': 'sguardo tecnico'
+      'technical-insight': 'sguardo tecnico',
+      'lido': 'LIDO'
     };
 
     if (categoryMap[category]) return categoryMap[category];
@@ -362,6 +364,12 @@ class ArticleBuildSystem {
 
   addMetaInfo(meta) {
     // Keep the archive Italian-first at the article level too.
+    // Articles whose photos or film are not Michael's carry their own `byline` in frontmatter.
+    if (meta.byline) {
+      const text = String(meta.byline).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace('Michael d Subrizi', 'Michael <span class="dlow">d</span> Subrizi');
+      return `<div class="article-meta">${text}</div>`;
+    }
     return '<div class="article-meta">Fotografato e scritto da Michael <span class="dlow">d</span> Subrizi</div>';
   }
 
@@ -503,7 +511,7 @@ class ArticleBuildSystem {
       <img src="${meta.cover}" alt="${meta.title}" class="cover-image" />
     </div>`;
     }
-    const videoSection = '';
+    let videoSection = '';
     const gallerySection = '';
 
     // Meta info
@@ -525,6 +533,13 @@ class ArticleBuildSystem {
         const afterIntro = html.substring(firstParagraphMatch.index + firstParagraphMatch[0].length);
         remainingContent = beforeIntro + afterIntro;
       }
+    }
+
+    const isLido = Array.isArray(meta.categories) && meta.categories.includes('lido');
+    // Vertical films: lift the player out of the body so CSS can set it beside the text.
+    if (meta.template === 'video' && meta.coverOrientation === 'portrait') {
+      const wrapper = remainingContent.match(/<div class="video-wrapper">[\s\S]*?<\/video>\s*<\/div>/);
+      if (wrapper) { videoSection = wrapper[0]; remainingContent = remainingContent.replace(wrapper[0], ''); }
     }
 
     return `<!DOCTYPE html>
@@ -560,11 +575,12 @@ class ArticleBuildSystem {
 
   <link rel="stylesheet" href="/css/styles.css?v=${this.buildVersion}">
 </head>
-<body>
+<body${isLido ? ' class="lido-page"' : ''}>
   <nav class="article-nav">
     <a href="/" class="back-home">← Sguardissimi</a>
   </nav>
-  <article class="fashion-article ${meta.template}-template">
+  ${isLido ? '<a class="lido-strip" href="/lido/"><strong>LIDO</strong><span>Il supplemento swimwear · N° 001 · Estate</span></a>' : ''}
+  <article class="fashion-article ${meta.template}-template${meta.template === 'video' && meta.coverOrientation === 'portrait' ? ' portrait-film' : ''}">
     <div class="article-header">
       <h1 class="article-title">${meta.title}</h1>
       ${metaInfo}
@@ -893,6 +909,8 @@ class ArticleBuildSystem {
           excerpt: frontmatter.excerpt || '',
           cover: frontmatter.cover || '',
           template: frontmatter.template,
+          coverOrientation: frontmatter.coverOrientation || '',
+          byline: frontmatter.byline || '',
           hasGallery,
           hasVideo,
           author: frontmatter.author,
@@ -1099,12 +1117,12 @@ ${urls.map(url => `  <url>
     try {
       this.processArticles();
       this.addReadingNavigation();
+      buildLido(this.metadata);
       this.writeMetadata();
       this.generateSitemap();
       
       console.log('📁 Copying static assets...');
       fse.copySync(path.join(__dirname, '../index.html'), path.join(DIST_DIR, '../index.html'));
-      fse.copySync(path.join(__dirname, '../lido'), path.join(DIST_DIR, '../lido'), { filter: src => !src.endsWith('README.md') });
       fse.copySync(path.join(__dirname, '../css'), path.join(DIST_DIR, '../css'));
       if (fs.existsSync(path.join(__dirname, '../img'))) {
         fse.copySync(path.join(__dirname, '../img'), path.join(DIST_DIR, '../img'));
